@@ -138,33 +138,35 @@ motto: >
 			
 ## 🟢 Availability Status			
 			
-```			
-╔══════════════════════════════════════════════════════════════════════════════════════╗			
-║                                                                                      ║			
-║   ██████████████████████  ACTIVELY SEEKING NEW OPPORTUNITIES  ██████████████████    ║			
-║                                                                                      ║			
-╠══════════════════════════════════════════════════════════════════════════════════════╣			
-║                                                                                      ║			
-║   🌐  REMOTE    ──▶  Open to ALL 50 US States                                      ║			
-║                       EST / CST / MST / PST — fully flexible                        ║			
-║                                                                                      ║			
-║   🏢  HYBRID    ──▶  Bengaluru / Bangalore, Karnataka, India                        ║			
-║                       Surrounding areas also welcome                                 ║			
-║                                                                                      ║			
-║   🏢  ONSITE    ──▶  Bengaluru preferred · Open to Hyderabad / Chennai / Pune       ║			
-║                                                                                      ║			
-║   ⚡  NOTICE    ──▶  ZERO DAYS — Can join TODAY with no notice period               ║			
-║                                                                                      ║			
-║   🕐  TIMEZONE  ──▶  IST (GMT+5:30) · Available 6 AM–12 AM IST for US calls        ║			
-║                                                                                      ║			
-║   📋  CONTRACTS ──▶  Full-Time (FTE) · Contract · Contract-to-Hire · Part-Time     ║			
-║                                                                                      ║			
-║   💳  TAX TERMS ──▶  W2 · C2C · 1099 · Independent Contractor — full mastery       ║			
-║                                                                                      ║			
-║   🧾  VISA KNOW ──▶  H1B · H4EAD · OPT · CPT · STEM OPT · GC · GC-EAD · USC      ║			
-║                                                                                      ║			
-╚══════════════════════════════════════════════════════════════════════════════════════╝			
-```			
+```	
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                            ║
+║           ███████████  ACTIVELY SEEKING NEW OPPORTUNITIES  ███████████                     ║
+║                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                            ║
+║ REMOTE         │ Open to opportunities across all 50 U.S. States                           ║
+║                │ Flexible across EST • CST • MST • PST                                     ║
+║                                                                                            ║
+║ HYBRID         │ Bengaluru (Bangalore), Karnataka                                          ║
+║                │ Nearby locations also welcome                                             ║
+║                                                                                            ║
+║ ONSITE         │ Bengaluru preferred                                                       ║
+║                │ Also open to Hyderabad • Chennai • Pune                                   ║
+║                                                                                            ║
+║ NOTICE         │ ZERO Days — Available to join immediately                                 ║
+║                                                                                            ║
+║ TIME ZONE      │ IST (UTC +05:30)                                                          ║
+║                │ Available 06:00–24:00 IST for U.S. calls                                  ║
+║                                                                                            ║
+║ EMPLOYMENT     │ Full-Time • Contract • Contract-to-Hire • Part-Time                       ║
+║                                                                                            ║
+║ ENGAGEMENT     │ W2 • C2C • 1099 • Independent Contractor                                  ║
+║                                                                                            ║
+║ WORK AUTH      │ H1B • H4 EAD • OPT • CPT • STEM OPT • GC • GC-EAD • USC                   ║
+║                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
+```	
 			
 ---			
 			
@@ -191,67 +193,26 @@ motto: >
 | 📞 | Avg Calls/Day | **40+** | Candidate + client combined |			
 | ⭐ | Candidate CSAT | **4.9/5** | Post-placement survey average |			
 			
-<br clear="right"/>			
-			
----			
-			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [08]  GITHUB LIVE STATS  — ALL VARIANTS			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Live Stats			
-			
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- GitHub Stats + Streak -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
- <img src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=tokyonight" />
-  />	
-			
-</div>			
-			
-<!-- Row 3: Activity Graph (blue) -->			
-<div align="center">			
-			
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&bg_color=0d1117&color=00ffff&line=00ffff&point=ff4081&area=true&area_color=00ffff&hide_border=true&custom_title=🔥%20Sachin's%20Contribution%20Activity%20—%20Last%2031%20Days&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)			
-			
-</div>			
-			
-<!-- Row 4: Activity Graph (second theme) -->			
-<div align="center">			
-			
-[![Activity Graph Pink](https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&bg_color=0d1117&color=ff4081&line=ff4081&point=00ffff&area=true&area_color=ff4081&hide_border=true&custom_title=💜%20Monthly%20Pulse%20View&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)			
-			
-</div>			
+<br clear="right"/>				
 			
 ---			
 			
 <!-- ═══════════════════════════════════════════════════════════════════════════			
      [09]  GITHUB TROPHIES — BOTH ROWS / THEMES			
      ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## 🏆 GitHub Trophy Cabinet			
-			
-<div align="center">			
-			
-[![Trophies — Tokyo Night](https://github-profile-trophy.vercel.app/?username=ITRecruitersachin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)			
-			
-</div>			
-			
-<div align="center">			
-			
-[![Trophies — Radical](https://github-profile-trophy.vercel.app/?username=ITRecruitersachin&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)			
-			
-</div>			
-			
-<div align="center">			
-			
-[![Trophies — Nord](https://github-profile-trophy.vercel.app/?username=ITRecruitersachin&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&title=Issues,Commits,Stars,Followers,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)			
-			
-</div>			
-			
+
+# 🏆 GitHub Achievement Center
+
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
 ---			
 			
 <!-- ═══════════════════════════════════════════════════════════════════════════			
@@ -271,49 +232,28 @@ motto: >
 <img src="https://metrics.lecoq.io/ITRecruitersachin?template=terminal&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata" alt="Terminal Metrics"/>			
 			
 </div>			
-			
+
 ---			
 			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [11]  WAKATIME STATS			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## ⏱️ WakaTime Coding Stats			
-			
-<div align="center">			
-			
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sachin_recruits&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=a0aec0&layout=compact&langs_count=12&range=last_7_days)](https://wakatime.com/@sachin_recruits)			
-			
-</div>			
-			
-<div align="center">			
-			
-[![WakaTime](https://wakatime.com/badge/user/sachin_recruits.svg?style=for-the-badge)](https://wakatime.com/@sachin_recruits)			
-			
-</div>			
-			
----			
-			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [12]  CONTRIBUTION SNAKE ANIMATION			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## 🐍 Contribution Snake			
-			
-<div align="center">			
-			
-<picture>			
-  <source media="(prefers-color-scheme: dark)"			
-    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg"/>			
-  <source media="(prefers-color-scheme: light)"			
-    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake.svg"/>			
-  <img alt="Snake animation"			
-    src="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg"			
-    width="100%"/>			
-</picture>			
-			
-</div>			
-			
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
+</picture>
+
+</div>
+
 <details>			
 <summary>🛠️ Click to see Snake Setup Workflow</summary>			
 			
@@ -449,27 +389,33 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 			
 ## 🛤️ Recruiter Journey · Timeline			
 			
-```			
-┌─────────────────────────────────────────────────────────────┐			
-│  🟢 FOUNDATION                                               │			
-│  First US IT placements · Mastered Dice, Monster, CB         │			
-│  Built first candidate pipeline · Learned visa compliance    │			
-├─────────────────────────────────────────────────────────────┤			
-│  🔵 EXPANSION                                                │			
-│  Niche tech specialization — AI/ML, Cyber, ERP/SAP           │			
-│  Built 15K+ LinkedIn network · X-ray Boolean mastery        │			
-│  Sourcing: GitHub, StackOverflow, Kaggle, Hugging Face       │			
-├─────────────────────────────────────────────────────────────┤			
-│  🟣 AI POWERED                                               │			
-│  Adopted Clay + Juicebox for personalized outreach at scale  │			
-│  AI prompt workflows: JD gen, resume scoring, market mapping │			
-│  Contact enrichment: Apollo, ContactOut, RocketReach, Lusha  │			
-├─────────────────────────────────────────────────────────────┤			
-│  🌌 NOW — AURORA PHASE                                       │			
-│  Own proprietary candidate DB · 500+ tagged profiles         │			
-│  Engineering + Non-IT reach · GitHub portfolio live          │			
-│  10x sourcing methodology · NDA-protected client network     │			
-└─────────────────────────────────────────────────────────────┘			
+```	
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│ 🟢 FOUNDATION                                                                        │
+│   • First US IT placements                                                           │
+│   • Mastered Dice, Monster & CareerBuilder                                           │
+│   • Built first candidate pipeline                                                   │
+│   • Learned US visa compliance                                                       │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│ 🔵 EXPANSION                                                                         │
+│   • Specialized in AI/ML, Cybersecurity & ERP/SAP recruiting                         │
+│   • Built a 15K+ LinkedIn network                                                    │
+│   • Mastered Boolean & X-Ray sourcing                                                │
+│   • Sourced via GitHub, Stack Overflow, Kaggle & Hugging Face                        │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│ 🟣 AI-POWERED RECRUITING                                                             │
+│   • Leveraged Clay & Juicebox for personalized outreach at scale                     │
+│   • Built AI prompt workflows for JD generation, resume scoring & market mapping     │
+│   • Contact enrichment using Apollo, ContactOut, RocketReach & Lusha                 │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│ 🌌 AURORA PHASE (NOW)                                                                │
+│   • Proprietary candidate database                                                   │
+│   • 500+ tagged candidate profiles                                                   │
+│   • Engineering & Non-IT talent network                                              │
+│   • GitHub recruiter portfolio live                                                  │
+│   • 10× sourcing methodology                                                         │
+│   • NDA-protected client network                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────┘		
 ```			
 			
 ---			
@@ -551,7 +497,7 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 			
 <img src="https://capsule-render.vercel.app/api?type=wave&color=065f46,0d9488,06b6d4,010d0a&height=50&section=footer" width="100%"/>			
 			
-📈 Candidate Database Growth			
+## 📈 Candidate Database Growth			
 			
 <div align="center"> <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27line%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Year+1%27%2C+%27Year+2%27%2C+%27Year+3%27%2C+%27Year+4%27%2C+%27Year+5%27%2C+%27Year+6%27%2C+%27Year+7%27%2C+%27Today%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Candidate+Database+Size%27%2C%0A++++++data%3A+%5B8000%2C+20000%2C+35000%2C+52000%2C+68000%2C+84000%2C+96000%2C+100000%5D%2C%0A++++++fill%3A+true%2C%0A++++++backgroundColor%3A+%27rgba%2852%2C+152%2C+219%2C+0.25%29%27%2C%0A++++++borderColor%3A+%27%233498db%27%2C%0A++++++pointBackgroundColor%3A+%27%23ffffff%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Candidate+Database+Growth+%28100%2C000%2B%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Candidate database growth chart"/> </div>			
 			
@@ -559,49 +505,68 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 			
 <br/>			
 			
-🎓 Certifications & Training			
-			
-🏅 [e.g., AIRS Certified Diversity & Inclusion Recruiter (CDR)]			
-🏅 [e.g., LinkedIn Certified Professional Recruiter]			
-🏅 [e.g., SHRM / HRCI certification, if applicable]			
-🏅 [Any ATS-specific certification — Bullhorn University, Ceipal, etc.]			
-			
-Add/remove lines to match your real certifications — none are pre-filled since none were provided.			
+## 🎓 Certifications & Training			
+<div align="center">
+🏅 [e.g., AIRS Certified Diversity & Inclusion Recruiter (CDR)]
+🏅 [e.g., LinkedIn Certified Professional Recruiter]
+🏅 [e.g., SHRM / HRCI certification, if applicable]
+🏅 [Any ATS-specific certification — Bullhorn University, Ceipal, etc.]						
 			
 <br/>			
 
-<img src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=PROFILE%20VIEWS&color=2ecc71&style=for-the-badge" alt="Profile Views"/>			
-<img src="https://img.shields.io/badge/NATIONWIDE-50%20STATES%20%2B%20D.C.-3498db?style=for-the-badge&logo=googlemaps&logoColor=white" alt="All States"/>			
-<img src="https://img.shields.io/badge/CANDIDATE%20DATABASE-100%2C000%2B-f1c40f?style=for-the-badge&logo=databricks&logoColor=black" alt="Candidate DB"/>			
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=PROFILE%20VIEWS&color=2ecc71&style=for-the-badge" alt="Profile Views"/>		
+<img src="https://img.shields.io/badge/NATIONWIDE-50%20STATES%20%2B%20D.C.-3498db?style=for-the-badge&logo=googlemaps&logoColor=white" alt="All States"/
+<img src="https://img.shields.io/badge/CANDIDATE%20DATABASE-100%2C000%2B-f1c40f?style=for-the-badge&logo=databricks&logoColor=black" alt="Candidate DB"/
 <img src="https://img.shields.io/badge/ENGAGEMENTS-W2%20%7C%20C2C%20%7C%201099-9b59b6?style=for-the-badge" alt="Engagement Types"/>			
-</div>			
+</div>
+
+---		
+
+## 📖 Table of Contents			
+About • Nationwide Coverage • Domain Expertise • Engagement Types • Legal & Compliance • Core Skills • Sourcing Channels • ATS Comparison • Performance Metrics • Work Authorization • Database Growth • Experience Timeline • Certifications • Why Work With Me • GitHub Activity • Testimonials • Contact	
+
+---
+
+## 🗺️ Nationwide Coverage					
+<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Northeast%27%2C+%27Midwest%27%2C+%27South+%28incl.+D.C.%29%27%2C+%27West%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27States+Covered%27%2C%0A++++++data%3A+%5B9%2C+12%2C+17%2C+13%5D%2C%0A++++++backgroundColor%3A+%5B%27%239b59b6%27%2C+%27%23e67e22%27%2C+%27%231abc9c%27%2C+%27%23e74c3c%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Nationwide+Coverage+%E2%80%94+All+50+States+%2B+D.C.%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=560&h=300&bkg=transparent&devicePixelRatio=2" alt="States covered by region"/>			
+
+	
+> Region groupings follow the standard U.S. Census Bureau definitions (Northeast: 9 · Midwest: 12 · South incl. D.C.: 17 · West: 13 = 51). Edit the `data` array in the chart URL if you want to reflect a specific subset of states you personally recruit for.			
+
+---
+
+## 🧭 Domain Expertise			
 <div align="center">			
-📖 Table of Contents			
-About • Nationwide Coverage • Domain Expertise • Engagement Types • Legal & Compliance • Core Skills • Sourcing Channels • ATS Comparison • Performance Metrics • Work Authorization • Database Growth • Experience Timeline • Certifications • Why Work With Me • GitHub Activity • Testimonials • Contact			
+<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27IT+%2F+Software%27%2C+%27Healthcare+%2F+Clinical%27%2C+%27Banking+%26+Finance%27%2C+%27Engineering%27%2C+%27Life+Sciences%27%2C+%27Government+%2F+Public+Sector%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Requisitions+Filled%27%2C%0A++++++data%3A+%5B420%2C+180%2C+150%2C+110%2C+90%2C+60%5D%2C%0A++++++backgroundColor%3A+%27%233498db%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Domain+Expertise+%28Sample+Distribution%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=620&h=320&bkg=transparent&devicePixelRatio=2" alt="Domain expertise chart"/>
+		
 </div>			
 
-🗺️ Nationwide Coverage			
-<div align="center">			
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Northeast%27%2C+%27Midwest%27%2C+%27South+%28incl.+D.C.%29%27%2C+%27West%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27States+Covered%27%2C%0A++++++data%3A+%5B9%2C+12%2C+17%2C+13%5D%2C%0A++++++backgroundColor%3A+%5B%27%239b59b6%27%2C+%27%23e67e22%27%2C+%27%231abc9c%27%2C+%27%23e74c3c%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Nationwide+Coverage+%E2%80%94+All+50+States+%2B+D.C.%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=560&h=300&bkg=transparent&devicePixelRatio=2" alt="States covered by region"/>			
-</div>			
-> Region groupings follow the standard U.S. Census Bureau definitions (Northeast: 9 · Midwest: 12 · South incl. D.C.: 17 · West: 13 = 51). Edit the `data` array in the chart URL if you want to reflect a specific subset of states you personally recruit for.			
-<br/>			
-🧭 Domain Expertise			
-<div align="center">			
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27IT+%2F+Software%27%2C+%27Healthcare+%2F+Clinical%27%2C+%27Banking+%26+Finance%27%2C+%27Engineering%27%2C+%27Life+Sciences%27%2C+%27Government+%2F+Public+Sector%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Requisitions+Filled%27%2C%0A++++++data%3A+%5B420%2C+180%2C+150%2C+110%2C+90%2C+60%5D%2C%0A++++++backgroundColor%3A+%27%233498db%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Domain+Expertise+%28Sample+Distribution%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=620&h=320&bkg=transparent&devicePixelRatio=2" alt="Domain expertise chart"/>			
-</div>			
 (Sample numbers — replace with your own req counts per domain: IT/Software, Healthcare, Finance, Engineering, Life Sciences, Government, etc.)			
-<br/>			
-🧾 Engagement Types Handled			
-<div align="center">			
-<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27doughnut%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27W2%27%2C+%27C2C+%28Corp-to-Corp%29%27%2C+%271099%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B50%2C+35%2C+15%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C+%27%233498db%27%2C+%27%23f1c40f%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Placements+by+Engagement+Type%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+labels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D+%7D%0A++++%7D%0A++%7D%0A%7D&w=480&h=300&bkg=transparent&devicePixelRatio=2" alt="Engagement type chart"/>			
-</div>			
+<br/>	
+
+---
+		
+## 🧾 Engagement Types Handled	
+		
+<div align="center">	
+		
+<img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27doughnut%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27W2%27%2C+%27C2C+%28Corp-to-Corp%29%27%2C+%271099%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B50%2C+35%2C+15%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C+%27%233498db%27%2C+%27%23f1c40f%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Placements+by+Engagement+Type%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+labels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D+%7D%0A++++%7D%0A++%7D%0A%7D&w=480&h=300&bkg=transparent&devicePixelRatio=2" alt="Engagement type chart"/>		
+	
+</div>	
+		
 Type	What it means	What I handle	
 W2	Candidate is employed by the staffing agency / employer of record	Payroll coordination, benefits eligibility docs, I-9/E-Verify, tax withholding forms	
 C2C	Candidate's own corporation contracts with the vendor/client	MSA/SOW review, vendor onboarding, invoicing cadence, corp-to-corp compliance docs	
 1099	Candidate works as an independent contractor	Contractor agreements, scope-of-work documentation, W-9 collection	
-<br/>			
-⚖️ Legal, Compliance & Onboarding			
+
+<br/>		
+
+---
+	
+## ⚖️ Legal, Compliance & Onboarding			
 ✅ Form I-9 verification & E-Verify processing			
 ✅ W-4 / W-9 tax documentation collection			
 ✅ Background checks & drug-screening coordination			
@@ -611,48 +576,134 @@ C2C	Candidate's own corporation contracts with the vendor/client	MSA/SOW review,
 ✅ VMS experience: Fieldglass, Beeline, IQNavigator/SAP Fieldglass			
 ✅ Timesheet approval workflows & C2C invoicing coordination			
 ✅ State-specific labor law awareness across all 50 states			
-✅ Offer letter generation, background/reference verification, new-hire paperwork			
-<br/>			
-🧠 Core Recruiting Skill Set			
+✅ Offer letter generation, background/reference verification, new-hire paperwork
+			
+<br/>		
+
+---
+	
+## 🧠 Core Recruiting Skill Set			
 <div align="center">			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27radar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Sourcing%27%2C+%27Boolean+%2F+X-Ray+Search%27%2C+%27ATS+Management%27%2C+%27Compliance+%26+Onboarding%27%2C+%27Client+Relationship%27%2C+%27Negotiation%27%2C+%27Candidate+Screening%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Skill+Proficiency%27%2C%0A++++++data%3A+%5B95%2C+92%2C+90%2C+93%2C+88%2C+85%2C+94%5D%2C%0A++++++backgroundColor%3A+%27rgba%2846%2C+204%2C+113%2C+0.25%29%27%2C%0A++++++borderColor%3A+%27%232ecc71%27%2C%0A++++++pointBackgroundColor%3A+%27%232ecc71%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Core+Recruiting+Skill+Set%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scale%3A+%7B%0A++++++angleLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.2%29%27+%7D%2C%0A++++++pointLabels%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C%0A++++++ticks%3A+%7B+display%3A+false%2C+beginAtZero%3A+true%2C+max%3A+100+%7D%0A++++%7D%0A++%7D%0A%7D&w=480&h=340&bkg=transparent&devicePixelRatio=2" alt="Core skills radar chart"/>			
 </div>			
-<br/>			
-🔍 Sourcing Channels & Tools			
+<br/>	
+		
+## 🔍 Sourcing Channels & Tools			
 <div align="center">			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27pie%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27LinkedIn+Recruiter%27%2C+%27Job+Boards+%28Dice%2C+Indeed%2C+Monster%2C+CB%2C+ZipRecruiter%29%27%2C+%27Free+%2F+Niche+Job+Boards%27%2C+%27X-Ray+%26+Boolean+Search%27%2C+%27Referrals+%26+Networking%27%2C+%27ATS+%2F+Internal+Database%27%2C+%27Social+Media+Sourcing%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B25%2C+22%2C+12%2C+15%2C+12%2C+9%2C+5%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C%27%233498db%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%2C%27%239b59b6%27%2C%27%231abc9c%27%2C%27%23e74c3c%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Sourcing+Channel+Mix%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+position%3A+%27right%27%2C+labels%3A+%7B+fontColor%3A+%27%23ffffff%27%2C+boxWidth%3A+12%2C+fontSize%3A+10+%7D+%7D%0A++++%7D%0A++%7D%0A%7D&w=640&h=320&bkg=transparent&devicePixelRatio=2" alt="Sourcing channel mix chart"/>			
-</div>			
-ATS Platforms:			
-![Bullhorn](https://img.shields.io/badge/Bullhorn-FF6600?style=flat-square) ![Ceipal](https://img.shields.io/badge/Ceipal-2C3E50?style=flat-square) ![JobDiva](https://img.shields.io/badge/JobDiva-1ABC9C?style=flat-square) ![iCIMS](https://img.shields.io/badge/iCIMS-0072CE?style=flat-square) ![Taleo](https://img.shields.io/badge/Taleo-EA6B10?style=flat-square) ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-E42527?style=flat-square) ![Crelate](https://img.shields.io/badge/Crelate-6E44FF?style=flat-square) ![PCRecruiter](https://img.shields.io/badge/PCRecruiter-34495E?style=flat-square)			
-Job Boards & Sourcing Platforms:			
+</div>	
+		
+## ATS Platforms:			
+![Bullhorn](https://img.shields.io/badge/Bullhorn-FF6600?style=flat-square) ![Ceipal](https://img.shields.io/badge/Ceipal-2C3E50?style=flat-square) ![JobDiva](https://img.shields.io/badge/JobDiva-1ABC9C?style=flat-square) ![iCIMS](https://img.shields.io/badge/iCIMS-0072CE?style=flat-square) ![Taleo](https://img.shields.io/badge/Taleo-EA6B10?style=flat-square) ![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-E42527?style=flat-square) ![Crelate](https://img.shields.io/badge/Crelate-6E44FF?style=flat-square) ![PCRecruiter](https://img.shields.io/badge/PCRecruiter-34495E?style=flat-square)	
+		
+## Job Boards & Sourcing Platforms:			
 ![LinkedIn](https://img.shields.io/badge/LinkedIn%20Recruiter-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![Indeed](https://img.shields.io/badge/Indeed-2557A7?style=flat-square&logo=indeed&logoColor=white) ![Dice](https://img.shields.io/badge/Dice-EA1D63?style=flat-square) ![Monster](https://img.shields.io/badge/Monster-6C4C9F?style=flat-square) ![CareerBuilder](https://img.shields.io/badge/CareerBuilder-00A94F?style=flat-square) ![ZipRecruiter](https://img.shields.io/badge/ZipRecruiter-2CB34A?style=flat-square) ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=flat-square&logo=glassdoor&logoColor=white)			
-Free & Niche Sourcing Sources:			
+
+## Free & Niche Sourcing Sources:			
 ![Craigslist](https://img.shields.io/badge/Craigslist-793A11?style=flat-square) ![Google for Jobs](https://img.shields.io/badge/Google%20for%20Jobs-4285F4?style=flat-square&logo=google&logoColor=white) ![USAJobs](https://img.shields.io/badge/USAJobs-002F6C?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub%20(tech%20sourcing)-181717?style=flat-square&logo=github&logoColor=white) ![Meetup](https://img.shields.io/badge/Meetup%20Groups-ED1C40?style=flat-square&logo=meetup&logoColor=white) ![Facebook Groups](https://img.shields.io/badge/Facebook%20Job%20Groups-1877F2?style=flat-square&logo=facebook&logoColor=white)			
-Sourcing techniques:			
-🔎 Boolean search strings across all major job boards & social platforms			
-🕸️ X-ray search (Google/Bing dorking) across LinkedIn, GitHub, Indeed resumes, personal portfolios			
-🧑‍💻 Portfolio-based sourcing (GitHub, Behance, Dribbble, personal sites) for technical/creative roles			
-📣 Professional social media sourcing (LinkedIn, X/Twitter, Slack/Discord tech communities)			
-🤝 Referral & referral-network programs, alumni groups, professional associations			
-🎯 Active and passive candidate pipeline development			
-🗄️ Internal database mining (100,000+ candidate records) for rapid submittals			
-<br/>			
-⚙️ ATS & Tools Comparison			
-<details>			
-<summary><b>Click to expand — platform-by-platform notes</b></summary>			
-<br/>			
-Platform	Type	Strength	Typically Used For
-Bullhorn	ATS/CRM	Strong staffing-agency workflow	End-to-end requisition & pipeline management
-Ceipal	ATS	Built-in job board aggregation	High-volume IT staffing
-JobDiva	ATS	Deep resume database search	Large candidate pool mining
-iCIMS	ATS	Enterprise-grade compliance	Corporate/direct-hire pipelines
-Taleo	ATS	Enterprise onboarding workflows	Large enterprise clients
-Zoho Recruit	ATS/CRM	Cost-effective, flexible	Small-to-mid agency operations
-Crelate	ATS/CRM	Modern UI, strong reporting	Boutique staffing firms
-Fieldglass / Beeline / IQNavigator	VMS	Vendor & contingent-workforce management	C2C / vendor-managed programs
-</details>			
-<br/>			
-📊 Performance Metrics			
+
+---
+
+## 🔍 Sourcing Techniques
+
+```text
+══════════════════════════════════════════════════════════════════════════════════════
+A D V A N C E D   T A L E N T   S O U R C I N G
+══════════════════════════════════════════════════════════════════════════════════════
+
+🔎 Boolean Search
+┃  ✦ Advanced Boolean search strings across LinkedIn Recruiter, Dice,
+┃    Monster, CareerBuilder, Indeed, ZipRecruiter and niche job boards.
+
+🌐 X-Ray Search
+┃  ✦ Google & Bing X-Ray (Dorking) across LinkedIn, GitHub, Indeed,
+┃    Stack Overflow, Kaggle, personal portfolios and company websites.
+
+💻 Portfolio-Based Sourcing
+┃  ✦ GitHub, GitLab, Bitbucket, Behance, Dribbble,
+┃    Hugging Face, Kaggle and personal portfolios.
+
+📱 Professional Communities
+┃  ✦ LinkedIn, X (Twitter), Reddit, Slack, Discord,
+┃    Meetup groups, alumni networks and professional associations.
+
+🤝 Referral Recruiting
+┃  ✦ Employee referrals, consultant referrals,
+┃    alumni networks and professional communities.
+
+🎯 Candidate Pipeline Development
+┃  ✦ Active & passive talent pipelines for
+┃    W2, C2C, 1099, Contract and Full-Time hiring.
+
+🗄️ Talent Database Mining
+┃  ✦ Internal ATS and candidate database mining
+┃    to rapidly identify qualified consultants.
+
+🤖 AI-Assisted Sourcing
+┃  ✦ ChatGPT, Claude, Gemini and AI-assisted workflows
+┃    for market mapping, outreach and sourcing productivity.
+
+══════════════════════════════════════════════════════════════════════════════════════
+```
+
+<br/>		
+
+## ⚙️ ATS, CRM & VMS Ecosystem
+
+<details>
+<summary><b>📂 Click to expand</b></summary>
+
+### 🗂 Applicant Tracking Systems (ATS)
+
+- Bullhorn
+- JobDiva
+- Ceipal
+- iCIMS
+- Oracle Taleo
+- Greenhouse
+- Lever
+- Workday Recruiting
+- SmartRecruiters
+- Zoho Recruit
+- Recruit CRM
+- Crelate
+
+---
+
+### 🤝 Vendor Management Systems (VMS)
+
+- Fieldglass
+- Beeline
+- IQNavigator
+- VectorVMS
+
+---
+
+### 🏢 Enterprise Talent Platforms
+
+- PeopleFluent
+- Workday Recruiting
+- Oracle Taleo
+- iCIMS
+
+---
+
+### ⭐ Experience Highlights
+
+✔ Full-cycle recruiting  
+✔ Resume parsing & candidate management  
+✔ Candidate pipeline development  
+✔ Interview scheduling & workflow automation  
+✔ Compliance & onboarding coordination  
+✔ Offer management & reporting  
+✔ Recruiter dashboards & analytics  
+✔ Vendor/MSP workflow management
+
+</details>
+
+<br/>
+
+## 📊 Performance Metrics			
 <div align="center">			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27bar%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Jan%27%2C%27Feb%27%2C%27Mar%27%2C%27Apr%27%2C%27May%27%2C%27Jun%27%2C%27Jul%27%2C%27Aug%27%2C%27Sep%27%2C%27Oct%27%2C%27Nov%27%2C%27Dec%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Placements+Closed%27%2C%0A++++++data%3A+%5B6%2C8%2C7%2C9%2C11%2C10%2C12%2C9%2C13%2C14%2C12%2C15%5D%2C%0A++++++backgroundColor%3A+%27%232ecc71%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Monthly+Placement+Velocity+%28Sample+Year%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+display%3A+false+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Monthly placement velocity chart" width="90%"/>			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27line%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Year+1%27%2C%27Year+2%27%2C%27Year+3%27%2C%27Year+4%27%2C%27Year+5%27%2C%27Year+6%27%2C%27Year+7%27%2C%27Today%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Avg.+Time-to-Fill+%28days%29%27%2C%0A++++++data%3A+%5B38%2C34%2C31%2C28%2C26%2C24%2C21%2C18%5D%2C%0A++++++borderColor%3A+%27%23e67e22%27%2C%0A++++++backgroundColor%3A+%27rgba%28230%2C126%2C34%2C0.2%29%27%2C%0A++++++fill%3A+true%2C%0A++++++pointBackgroundColor%3A+%27%23ffffff%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Average+Time-to-Fill+Improvement%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Time to fill trend chart" width="90%"/>			
@@ -661,361 +712,210 @@ Fieldglass / Beeline / IQNavigator	VMS	Vendor & contingent-workforce management	
 </div>			
 (All four charts above use sample/illustrative numbers — replace the `data` arrays in each chart URL with your real metrics: monthly placements, average time-to-fill, funnel conversion counts, and client retention rate.)			
 <br/>			
-🛂 Work Authorization & Visa Types Supported			
+
+## 🛂 Work Authorization & Visa Types Supported			
 <div align="center">			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27polarArea%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27USC%27%2C%27GC%27%2C%27H1B%27%2C%27OPT%2FCPT%27%2C%27TN%27%2C%27L1%2FL2%27%2C%27E3%27%2C%27H4-EAD%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++data%3A+%5B30%2C20%2C18%2C12%2C8%2C6%2C3%2C3%5D%2C%0A++++++backgroundColor%3A+%5B%27%232ecc71%27%2C%27%233498db%27%2C%27%239b59b6%27%2C%27%23f1c40f%27%2C%27%23e67e22%27%2C%27%231abc9c%27%2C%27%23e74c3c%27%2C%27%2395a5a6%27%5D%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Work+Authorization+Types+Supported%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+15+%7D%2C%0A++++++legend%3A+%7B+position%3A+%27right%27%2C+labels%3A+%7B+fontColor%3A+%27%23ffffff%27%2C+boxWidth%3A+12%2C+fontSize%3A+10+%7D+%7D%0A++++%7D%2C%0A++++scale%3A+%7B+ticks%3A+%7B+display%3A+false+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.15%29%27+%7D+%7D%0A++%7D%0A%7D&w=560&h=340&bkg=transparent&devicePixelRatio=2" alt="Work authorization types chart"/>			
 </div>			
 <br/>			
-📈 Candidate Database Growth			
+
+## 📈 Candidate Database Growth			
 <div align="center">			
 <img src="https://quickchart.io/chart?c=%7B%0A++type%3A+%27line%27%2C%0A++data%3A+%7B%0A++++labels%3A+%5B%27Year+1%27%2C+%27Year+2%27%2C+%27Year+3%27%2C+%27Year+4%27%2C+%27Year+5%27%2C+%27Year+6%27%2C+%27Year+7%27%2C+%27Today%27%5D%2C%0A++++datasets%3A+%5B%7B%0A++++++label%3A+%27Candidate+Database+Size%27%2C%0A++++++data%3A+%5B8000%2C+20000%2C+35000%2C+52000%2C+68000%2C+84000%2C+96000%2C+100000%5D%2C%0A++++++fill%3A+true%2C%0A++++++backgroundColor%3A+%27rgba%2852%2C+152%2C+219%2C+0.25%29%27%2C%0A++++++borderColor%3A+%27%233498db%27%2C%0A++++++pointBackgroundColor%3A+%27%23ffffff%27%0A++++%7D%5D%0A++%7D%2C%0A++options%3A+%7B%0A++++plugins%3A+%7B%0A++++++title%3A+%7B+display%3A+true%2C+text%3A+%27Candidate+Database+Growth+%28100%2C000%2B%29%27%2C+fontColor%3A+%27%23ffffff%27%2C+fontSize%3A+16+%7D%2C%0A++++++legend%3A+%7B+display%3A+false+%7D%0A++++%7D%2C%0A++++scales%3A+%7B%0A++++++xAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%2C%0A++++++yAxes%3A+%5B%7B+ticks%3A+%7B+fontColor%3A+%27%23ffffff%27+%7D%2C+gridLines%3A+%7B+color%3A+%27rgba%28255%2C255%2C255%2C0.1%29%27+%7D+%7D%5D%0A++++%7D%0A++%7D%0A%7D&w=640&h=300&bkg=transparent&devicePixelRatio=2" alt="Candidate database growth chart"/>			
 </div>			
 (Sample growth curve — plug in your actual year-by-year database size if you track it.)			
 <br/>			
-🕐 Experience Timeline			
-```text			
-[Start Year] ─ [Year]      [Job Title] @ [Company Name]			
-                            • Domain: [ IT / Healthcare / Finance / ... ]			
-                            • Engagement types: W2 · C2C · 1099			
-                            • States covered: [ list or "Nationwide" ]			
-			
-[Year] ─ [Year]             [Job Title] @ [Company Name]			
-                            • Notable achievement: [ e.g., "Closed X reqs / quarter" ]			
-			
-[Year] ─ Present            [Current Job Title] @ [Current Company]			
-                            • [ Key responsibility / specialization ]			
-                            
-```> Replace the bracketed placeholders above with your real roles, companies, and dates — this timeline is intentionally left as a fill-in template rather than invented history.<br/>
+
+## 🕐 Experience Timeline
+
+```text
+══════════════════════════════════════════════════════════════════════════════════════════════
+CAREER JOURNEY
+10+ YEARS OF US IT RECRUITMENT EXCELLENCE
+══════════════════════════════════════════════════════════════════════════════════════════════
+
+2013 ───────────────────────────────────────────────────────────────────────────────► Present
+
+   🌱
+   Technical Recruiter
+   Pragna Technologies
+   │
+   ├─ Entered US Staffing Industry
+   ├─ Boolean Search Foundations
+   ├─ Resume Screening
+   └─ Candidate Sourcing
+
+        │
+        ▼
+
+   🚀
+   US IT Recruiter
+   ObjectWin Technologies
+   │
+   ├─ Full-Cycle Recruitment
+   ├─ W2 • C2C Hiring
+   ├─ LinkedIn Recruiter
+   └─ Job Boards & ATS
+
+        │
+        ▼
+
+   ⭐
+   Senior Technical Recruiter
+   Q Analysts LLC
+   │
+   ├─ Fortune 500 Hiring
+   ├─ AI/ML • NLP
+   ├─ AR/VR • XR Programs
+   └─ Bullhorn ATS
+
+        │
+        ▼
+
+   🏆
+   Lead Technical Recruiter
+   i-Link Solutions
+   │
+   ├─ Federal • State • Commercial
+   ├─ MSP / VMS Programs
+   ├─ W2 • C2C Pipelines
+   ├─ AI Sourcing
+   ├─ Team Mentoring
+   └─ Compliance & Immigration
+
+        │
+        ▼
+
+   ⚡
+   Senior US IT Recruiter
+   V2Soft
+   │
+   ├─ Banking
+   ├─ Automotive
+   ├─ Manufacturing
+   ├─ Healthcare
+   └─ Strategic W2 Recruiting
+
+        │
+        ▼
+
+   🌍
+   Lead Recruiter
+   Staffworxs
+   │
+   ├─ Federal & State Hiring
+   ├─ AI/ML • Cloud
+   ├─ Cybersecurity
+   ├─ Infrastructure
+   ├─ JobDiva ATS
+   └─ AI-Assisted Recruiting
+
+══════════════════════════════════════════════════════════════════════════════════════════════
+
+Experience        │ 10+ Years
+Companies         │ 6
+Industries        │ Federal • State • Commercial • Fortune 500
+Recruitment       │ W2 • C2C • 1099 • FTE • Contract • CTH
+ATS / VMS         │ JobDiva • Bullhorn • VectorVMS • PeopleFluent
+Specializations   │ AI • Cloud • Cybersecurity • ERP • Data • Networking
+══════════════════════════════════════════════════════════════════════════════════════════════
 ```
-🌟 Why Work With Me			
-⚡ Fast turnaround — deep familiarity with sourcing tools shortens submittal time			
-🗂️ Ready-made pipeline — 100,000+ candidate database means many roles start with a warm shortlist, not a cold search			
-🌎 True nationwide reach — sourcing and placement experience spans all 50 states + D.C.			
-⚖️ Compliance-first — comfortable owning I-9/E-Verify, visa documentation, and vendor paperwork so hiring teams don't have to			
-🔁 Flexible engagement models — equally comfortable structuring W2, C2C, or 1099 arrangements			
-🎯 Active + passive sourcing — not limited to job-board applicants; proactively engages passive talent via X-ray/Boolean search and referrals			
+
+---
+
+## 🌟 Why Work With Me
+
+```text
+═══════════════════════════════════════════════════════════════════════════════════════════════════
+W H Y   W O R K   W I T H   M E
+═══════════════════════════════════════════════════════════════════════════════════════════════════
+⚡ RAPID DELIVERY
+┃  ✦ Efficient sourcing workflows designed to reduce time-to-submit.
+┃  ✦ Quick turnaround on priority and hard-to-fill technical roles.
+
+🎯 STRATEGIC SOURCING
+┃  ✦ Advanced Boolean, Google X-Ray and AI-assisted sourcing techniques.
+┃  ✦ Strong focus on identifying and engaging passive technology talent.
+
+🗂 TALENT PIPELINES
+┃  ✦ Well-maintained consultant pipelines for recurring hiring needs.
+┃  ✦ Proactive talent mapping for niche and high-demand skill sets.
+
+🌎 NATIONWIDE REACH
+┃  ✦ Recruitment experience supporting clients across the United States.
+┃  ✦ Comfortable hiring across multiple time zones and locations.
+
+⚖️ COMPLIANCE FIRST
+┃  ✦ Knowledge of U.S. work authorization, visa categories and onboarding.
+┃  ✦ Experienced with documentation, compliance workflows and vendor processes.
+
+💼 FLEXIBLE HIRING MODELS
+┃  ✦ Full-Time • Contract • Contract-to-Hire • W2 • C2C • 1099.
+┃  ✦ Adaptable recruiting strategies based on client engagement models.
+
+🤝 PARTNERSHIP APPROACH
+┃  ✦ Collaborative communication with hiring managers and delivery teams.
+┃  ✦ Candidate-focused experience from sourcing through successful onboarding.
+
+══════════════════════════════════════════════════════════════════════════════════════════════
+```
+
 <br/>
 
-<!-- 🏆 GitHub Activity -->
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=tokyonight&hide_border=true&border_radius=12&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
-    alt="GitHub Streak Stats"
-    height="180"
-  />
+<img height="180em" src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<div align="center">			
-<img src="https://github-profile-trophy.vercel.app/?username=ITRecruitersachin&theme=algolia&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>			
-</div>			
-<details>			
-<summary><b>Want a contribution "snake" animation too?</b></summary>			
-<br/>			
-That one requires a tiny GitHub Action (it generates an SVG from your contribution graph and commits it automatically) rather than a plain URL. Steps:			
-In your profile repo, go to Actions → New workflow → set up a workflow yourself.			
-Use the `Platane/snk` action (search "snk github action" for the current YAML template).			
-It will commit a generated `github-contribution-grid-snake.svg` to your repo on a schedule.			
-Reference it here: `![Snake animation](github-contribution-grid-snake.svg)`			
-</details>			
-> These widgets show generic GitHub activity (not recruiting metrics) — a nice-to-have for a lively profile, but entirely optional. Replace `ITRecruitersachin` with your actual username, or delete this section.			
-<br/>			
-💬 References & Testimonials			
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRecruitersachin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ITRecruitersachin&theme=algolia&no-frame=true&row=1&column=7&margin-w=15"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ITRecruitersachin/Z/main/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+
+<img src="https://raw.githubusercontent.com/ITRecruitersachin/Z/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+
+<img src="https://raw.githubusercontent.com/ITRecruitersachin/Z/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+
+
+
+</div>
+
+## 💬 References & Testimonials			
 > *"[Add a short quote from a hiring manager, candidate, or colleague here.]"*			
 > — **[Name, Title, Company]**			
 > *"[Add another testimonial here.]"*			
 > — **[Name, Title, Company]**			
 <br/>			
-📫 Let's Connect			
-<div align="center">			
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)			
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)			
-![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)			
-</div>			
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>			
-			
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">			
-<defs>			
-  <radialGradient id="bgGrad" cx="50%" cy="40%" r="80%">			
-    <stop offset="0%" stop-color="#0d234a"/>			
-    <stop offset="55%" stop-color="#081633"/>			
-    <stop offset="100%" stop-color="#04091a"/>			
-  </radialGradient>			
-  <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">			
-    <stop offset="0%" stop-color="#5ec6ff" stop-opacity="0.16"/>			
-    <stop offset="100%" stop-color="#5ec6ff" stop-opacity="0"/>			
-  </radialGradient>			
-  			
-<linearGradient id="metalGrad" x1="0%" y1="0%" x2="100%" y2="0%">			
-  <stop offset="0%" stop-color="#c9d6e8"/>			
-  <stop offset="50%" stop-color="#ffffff"/>			
-  <stop offset="100%" stop-color="#c9d6e8"/>			
-</linearGradient>			
-<linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">			
-  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>			
-  <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>			
-  <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95"/>			
-  <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>			
-  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>			
-</linearGradient>			
-<linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">			
-  <stop offset="0%" stop-color="#1c3d6e" stop-opacity="0.45"/>			
-  <stop offset="100%" stop-color="#0d1b33" stop-opacity="0.55"/>			
-</linearGradient>			
-			
-  <clipPath id="frame"><rect x="0" y="0" width="1200" height="320" rx="22" ry="22"/></clipPath>			
-</defs>			
-			
-<g clip-path="url(#frame)">			
-  <rect x="0" y="0" width="1200" height="320" fill="url(#bgGrad)"/>			
-  <g><animateTransform attributeName="transform" type="translate" values="0,0;-40,-40;0,0" dur="14s" repeatCount="indefinite"/><line x1="0" y1="0" x2="0" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="40" y1="0" x2="40" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="80" y1="0" x2="80" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="120" y1="0" x2="120" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="160" y1="0" x2="160" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="200" y1="0" x2="200" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="240" y1="0" x2="240" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="280" y1="0" x2="280" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="320" y1="0" x2="320" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="360" y1="0" x2="360" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="400" y1="0" x2="400" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="440" y1="0" x2="440" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="480" y1="0" x2="480" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="520" y1="0" x2="520" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="560" y1="0" x2="560" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="600" y1="0" x2="600" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="640" y1="0" x2="640" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="680" y1="0" x2="680" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="720" y1="0" x2="720" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="760" y1="0" x2="760" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="800" y1="0" x2="800" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="840" y1="0" x2="840" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="880" y1="0" x2="880" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="920" y1="0" x2="920" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="960" y1="0" x2="960" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1000" y1="0" x2="1000" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1040" y1="0" x2="1040" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1080" y1="0" x2="1080" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1120" y1="0" x2="1120" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1160" y1="0" x2="1160" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="1200" y1="0" x2="1200" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="0" x2="1200" y2="0" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="40" x2="1200" y2="40" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="80" x2="1200" y2="80" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="120" x2="1200" y2="120" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="160" x2="1200" y2="160" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="200" x2="1200" y2="200" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="240" x2="1200" y2="240" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="280" x2="1200" y2="280" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/><line x1="0" y1="320" x2="1200" y2="320" stroke="#274a7a" stroke-width="0.4" opacity="0.12"/></g>			
-  <line x1="53.8" y1="59.2" x2="86.4" y2="117.4" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="53.8" y1="59.2" x2="144.3" y2="35.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="480.0" y1="207.8" x2="448.7" y2="278.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="480.0" y1="207.8" x2="502.1" y2="289.0" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="195.3" y1="59.2" x2="144.3" y2="35.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="195.3" y1="59.2" x2="275.6" y2="86.4" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="299.6" y1="227.0" x2="284.6" y2="237.1" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="299.6" y1="227.0" x2="205.1" y2="222.6" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="205.1" y1="222.6" x2="284.6" y2="237.1" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="205.1" y1="222.6" x2="299.6" y2="227.0" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="781.6" y1="65.5" x2="857.4" y2="80.4" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="144.3" y1="35.3" x2="195.3" y2="59.2" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="144.3" y1="35.3" x2="53.8" y2="59.2" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1092.6" y1="134.8" x2="1012.6" y2="199.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1092.6" y1="134.8" x2="1108.2" y2="248.1" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="262.3" y1="115.9" x2="275.6" y2="86.4" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="262.3" y1="115.9" x2="195.3" y2="59.2" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="448.7" y1="278.3" x2="502.1" y2="289.0" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="275.6" y1="86.4" x2="262.3" y2="115.9" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="275.6" y1="86.4" x2="195.3" y2="59.2" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1108.2" y1="248.1" x2="1012.6" y2="199.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1108.2" y1="248.1" x2="1092.6" y2="134.8" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="976.8" y1="287.1" x2="1012.6" y2="199.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="976.8" y1="287.1" x2="1108.2" y2="248.1" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="74.0" y1="221.1" x2="86.4" y2="117.4" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="74.0" y1="221.1" x2="205.1" y2="222.6" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1012.6" y1="199.3" x2="976.8" y2="287.1" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="1012.6" y1="199.3" x2="1092.6" y2="134.8" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="284.6" y1="237.1" x2="299.6" y2="227.0" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="284.6" y1="237.1" x2="205.1" y2="222.6" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="857.4" y1="80.4" x2="781.6" y2="65.5" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="857.4" y1="80.4" x2="757.8" y2="87.0" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="86.4" y1="117.4" x2="53.8" y2="59.2" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/><line x1="86.4" y1="117.4" x2="144.3" y2="35.3" stroke="#3a6fd8" stroke-width="0.6" opacity="0.16"/>			
-<circle cx="53.8" cy="59.2" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.94s" begin="2.51s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;3.7,3.8;0,0" dur="8.9s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="480.0" cy="207.8" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.92s" begin="0.53s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;1.0,0.4;0,0" dur="7.1s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="195.3" cy="59.2" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.02s" begin="0.28s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-2.5,3.4;0,0" dur="9.0s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="299.6" cy="227.0" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.8s" begin="2.09s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-3.2,-0.8;0,0" dur="8.6s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="205.1" cy="222.6" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.73s" begin="1.95s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;3.9,-2.4;0,0" dur="10.3s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="781.6" cy="65.5" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.4s" begin="1.33s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;2.3,0.5;0,0" dur="9.7s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="144.3" cy="35.3" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.95s" begin="0.36s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-2.4,-1.3;0,0" dur="10.7s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="1092.6" cy="134.8" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.14s" begin="2.56s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-0.2,-0.0;0,0" dur="9.3s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="262.3" cy="115.9" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.37s" begin="0.83s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-1.0,0.9;0,0" dur="9.7s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="448.7" cy="278.3" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.34s" begin="0.41s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;1.8,1.5;0,0" dur="6.0s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="275.6" cy="86.4" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.92s" begin="2.3s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-2.0,2.1;0,0" dur="10.7s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="695.1" cy="172.3" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.13s" begin="0.85s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-2.6,-3.6;0,0" dur="7.4s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="1108.2" cy="248.1" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.37s" begin="2.6s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-3.6,0.9;0,0" dur="6.1s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="976.8" cy="287.1" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.58s" begin="2.46s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-1.6,-2.5;0,0" dur="6.4s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="74.0" cy="221.1" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.36s" begin="2.08s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;0.2,2.9;0,0" dur="7.8s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="1012.6" cy="199.3" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.2s" begin="1.57s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;1.7,-0.3;0,0" dur="7.6s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="284.6" cy="237.1" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.15s" begin="1.4s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-2.9,-3.0;0,0" dur="9.3s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="857.4" cy="80.4" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.23s" begin="2.83s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;1.5,0.6;0,0" dur="9.4s" repeatCount="indefinite"/>			
-</circle>			
-			
-<circle cx="86.4" cy="117.4" r="1.8" fill="#5ec6ff">			
-  <animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.56s" begin="0.36s" repeatCount="indefinite"/>			
-  <animateTransform attributeName="transform" type="translate" values="0,0;-0.6,-2.9;0,0" dur="10.0s" repeatCount="indefinite"/>			
-</circle>			
-			
-			
-  <circle cx="600.0" cy="154.0" r="260" fill="url(#coreGlow)"/>			
-			
-  			
-<g opacity="0.85">			
-  <ellipse cx="600.0" cy="154.0" rx="205" ry="127.1" fill="none" stroke="#3a6fd8" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="2 6">			
-    <animateTransform attributeName="transform" type="rotate" from="0 600.0 154.0" to="360 600.0 154.0" dur="40s" repeatCount="indefinite"/>			
-  </ellipse>			
-  <g>			
-    <animateTransform attributeName="transform" type="rotate" from="0 600.0 154.0" to="360 600.0 154.0" dur="40s" repeatCount="indefinite"/>			
-    			
-<g transform="translate(745.0,64.1)">			
-  <circle r="16" fill="#0d1b33" stroke="#ffd27d" stroke-width="1.2" opacity="0.9">			
-    <animate attributeName="stroke-opacity" values="0.4;0.9;0.4" dur="2.91s" repeatCount="indefinite"/>			
-  </circle>			
-  <text x="0" y="4" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#ffd27d" font-weight="bold">NE</text>			
-</g>			
-			
-<g transform="translate(745.0,243.9)">			
-  <circle r="16" fill="#0d1b33" stroke="#ffd27d" stroke-width="1.2" opacity="0.9">			
-    <animate attributeName="stroke-opacity" values="0.4;0.9;0.4" dur="3.03s" repeatCount="indefinite"/>			
-  </circle>			
-  <text x="0" y="4" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#ffd27d" font-weight="bold">MW</text>			
-</g>			
-			
-<g transform="translate(455.0,243.9)">			
-  <circle r="16" fill="#0d1b33" stroke="#ffd27d" stroke-width="1.2" opacity="0.9">			
-    <animate attributeName="stroke-opacity" values="0.4;0.9;0.4" dur="3.31s" repeatCount="indefinite"/>			
-  </circle>			
-  <text x="0" y="4" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#ffd27d" font-weight="bold">S</text>			
-</g>			
-			
-<g transform="translate(455.0,64.1)">			
-  <circle r="16" fill="#0d1b33" stroke="#ffd27d" stroke-width="1.2" opacity="0.9">			
-    <animate attributeName="stroke-opacity" values="0.4;0.9;0.4" dur="3.14s" repeatCount="indefinite"/>			
-  </circle>			
-  <text x="0" y="4" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#ffd27d" font-weight="bold">W</text>			
-</g>			
-			
-  </g>			
-</g>			
-			
-  <g transform="translate(0,-6)">			
-<rect x="258.0" y="174.0" width="6" height="14" rx="1.5" fill="#5ec6ff" opacity="0.85">			
-  <animate attributeName="height" values="14;21.0;14" dur="1.79s" repeatCount="indefinite"/>			
-  <animate attributeName="y" values="174.0;167.0;174.0" dur="1.79s" repeatCount="indefinite"/>			
-</rect>			
-			
-<rect x="267.0" y="166.0" width="6" height="22" rx="1.5" fill="#5ec6ff" opacity="0.85">			
-  <animate attributeName="height" values="22;33.0;22" dur="2.22s" repeatCount="indefinite"/>			
-  <animate attributeName="y" values="166.0;155.0;166.0" dur="2.22s" repeatCount="indefinite"/>			
-</rect>			
-			
-<rect x="276.0" y="171.0" width="6" height="17" rx="1.5" fill="#5ec6ff" opacity="0.85">			
-  <animate attributeName="height" values="17;25.5;17" dur="2.19s" repeatCount="indefinite"/>			
-  <animate attributeName="y" values="171.0;162.5;171.0" dur="2.19s" repeatCount="indefinite"/>			
-</rect>			
-			
-<rect x="285.0" y="161.0" width="6" height="27" rx="1.5" fill="#5ec6ff" opacity="0.85">			
-  <animate attributeName="height" values="27;40.5;27" dur="2.26s" repeatCount="indefinite"/>			
-  <animate attributeName="y" values="161.0;147.5;161.0" dur="2.26s" repeatCount="indefinite"/>			
-</rect>			
-			
-<rect x="294.0" y="168.0" width="6" height="20" rx="1.5" fill="#5ec6ff" opacity="0.85">			
-  <animate attributeName="height" values="20;30.0;20" dur="1.63s" repeatCount="indefinite"/>			
-  <animate attributeName="y" values="168.0;158.0;168.0" dur="1.63s" repeatCount="indefinite"/>			
-</rect>			
-</g>			
-  			
-<g transform="translate(920.0,174.0)">			
-  <animateTransform attributeName="transform" type="translate" values="920.0,174.0; 920.0,170.0; 920.0,174.0" dur="3s" repeatCount="indefinite"/>			
-  <rect x="-11" y="-14" width="22" height="28" rx="3" fill="#0d1b33" stroke="#ffd27d" stroke-width="1.2" opacity="0.9"/>			
-  <path d="M -5 -3 L -1 2 L 6 -7" stroke="#2ecc71" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">			
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>			
-  </path>			
-</g>			
-			
-  			
-<g>			
-  <rect x="320.0" y="70.0" width="560" height="168" rx="18" ry="18"			
-        fill="url(#panelGrad)" stroke="#5ec6ff" stroke-opacity="0.3" stroke-width="1"/>			
-  <rect x="320.0" y="70.0" width="560" height="2" fill="#ffffff" opacity="0.25"/>			
-			
-  <line x1="440.0" y1="108.0" x2="760.0" y2="108.0" stroke="#ffd27d" stroke-width="0.8" opacity="0.5"/>			
-			
-  <text x="600.0" y="152.0" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="bold"			
-        font-size="58" letter-spacing="9" fill="url(#metalGrad)">			
-    SACHIN			
-  </text>			
-  <text x="600.0" y="152.0" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="bold"			
-        font-size="58" letter-spacing="9" fill="url(#shineGrad)">			
-    SACHIN			
-    <animateTransform attributeName="transform" type="translate" values="-260,0;260,0;260,0" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite"/>			
-  </text>			
-			
-  <line x1="440.0" y1="176.0" x2="760.0" y2="176.0" stroke="#ffd27d" stroke-width="0.8" opacity="0.5"/>			
-			
-  <text x="600.0" y="202.0" text-anchor="middle" font-family="'Courier New',monospace" font-weight="bold"			
-        font-size="18" letter-spacing="5" fill="#dbe6ff" opacity="0.95">			
-    US IT RECRUITER			
-  </text>			
-  <text x="600.0" y="224.0" text-anchor="middle" font-family="'Courier New',monospace"			
-        font-size="11" letter-spacing="2.4" fill="#8fa8d9" opacity="0.85">			
-    NATIONWIDE &#8226; FULL-CYCLE &#8226; W2 / C2C / 1099			
-  </text>			
-</g>			
-			
-			
-  			
-<g>			
-  <rect x="0" y="294" width="1200" height="26" fill="#08142a" opacity="0.9"/>			
-  <line x1="0" y1="294" x2="1200" y2="294" stroke="#ffd27d" stroke-width="0.6" opacity="0.4"/>			
-  <text x="0" y="311" font-family="'Courier New',monospace" font-size="13" fill="#5ec6ff" letter-spacing="1">			
-      ✦  NATIONWIDE: ALL 50 STATES + D.C.  ✦  100,000+ CANDIDATE DATABASE  ✦  W2 · C2C · 1099 ENGAGEMENTS  ✦  ATS: BULLHORN · CEIPAL · JOBDIVA · iCIMS  ✦  FULL-CYCLE TALENT ACQUISITION  ✦    ✦  NATIONWIDE: ALL 50 STATES + D.C.  ✦  100,000+ CANDIDATE DATABASE  ✦  W2 · C2C · 1099 ENGAGEMENTS  ✦  ATS: BULLHORN · CEIPAL · JOBDIVA · iCIMS  ✦  FULL-CYCLE TALENT ACQUISITION  ✦    ✦  NATIONWIDE: ALL 50 STATES + D.C.  ✦  100,000+ CANDIDATE DATABASE  ✦  W2 · C2C · 1099 ENGAGEMENTS  ✦  ATS: BULLHORN · CEIPAL · JOBDIVA · iCIMS  ✦  FULL-CYCLE TALENT ACQUISITION  ✦  			
-    <animateTransform attributeName="transform" type="translate" values="0,0;-1500,0" dur="28s" repeatCount="indefinite"/>			
-  </text>			
-</g>			
-			
-  			
-<rect x="1" y="1" width="1198" height="318" rx="22" ry="22" fill="none" stroke="#5ec6ff" stroke-opacity="0.4" stroke-width="1.5">			
-  <animate attributeName="stroke" values="#5ec6ff;#ffd27d;#5ec6ff" dur="7s" repeatCount="indefinite"/>			
-</rect>			
-			
-</g>			
-</svg>			
-			
-![Sachin - US IT Recruiter](./sachin-recruiter-banner-cosmic.svg)			
-			
-![Sachin - US IT Recruiter](./sachin-recruiter_pro_banner.svg)			
-			
-git clone https://github.com/YOUR-USERNAME/YOUR-USERNAME.git			
-cd YOUR-USERNAME			
-# copy recruiter_pro_banner.svg and README.md into this folder			
-git add .			
-git commit -m "Update profile README"			
-git push			
-			
-<div align="center">			
-  <!-- Custom Header Banner -->			
-  <img src="https://capsule-render.vercel.app?type=anime&width=800&height=120&color1=636efa&color2=ef5466&text=👋%20Hi,%20I'm%20Sachin%20Jain%20%7C%20Recruiting%20Expert%20%7C%20Bengaluru&fontSize=30&fontColor=white&borderRadius=10" alt="Header Banner" />			
-  			
-  <!-- Your Fantasy Image -->			
-  <img width="100%" src="India n fantasy.png" alt="Profile Image" />			
-</div>
+
+
+---
 
 ## 🏰 The Kingdom Map			
 			
@@ -1033,13 +933,8 @@ F --> G[Onboarding]
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpqZGx5a3Z3eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Hello GIF" width="200" />			
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpqZGx5a3Z3eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5/l0HlHJkMo0Yna/giphy.gif" alt="Recruiting GIF" width="200" />			
 </p>			
-			
-<h2 align="center">About Me 👨‍💼</h2>			
-<p align="center">			
-  <img src="https://github-Javadoc.com/user/emoji/1f44b" alt="Recruiter Emoji" width="50" />			
-  <img src="https://media.giphy.com/media/26tn33VOOvsAAxqw4/giphy.gif" alt="Working" width="150" />			
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hiring" width="150" />			
-</p>			
+
+---			
 			
 ## Architecture			
 			
@@ -1099,7 +994,76 @@ F-->>U: Show output
 			
 <br clear="right"/>			
 			
----			
+---	
+
+## 🚀 Talent Acquisition Value Framework
+
+<div align="center">
+
+<img align="right" width="240" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                    ENTERPRISE TALENT ACQUISITION VALUE MATRIX v12.0                                 ║
+╠════╦══════════════════════════════╦══════════════════════════════════════════════════════════════════╣
+║ ID ║ CAPABILITY                   ║ ENTERPRISE VALUE                                                ║
+╠════╬══════════════════════════════╬══════════════════════════════════════════════════════════════════╣
+║ 01 ║ 🎯 Full-Cycle Recruiting     ║ Owns sourcing → screening → offer → onboarding lifecycle       ║
+║ 02 ║ 🔍 Talent Intelligence       ║ Advanced Boolean, X-Ray, AI-assisted sourcing & research       ║
+║ 03 ║ 🌐 Nationwide Reach          ║ Recruiting experience supporting opportunities across the U.S. ║
+║ 04 ║ 💼 Hiring Models             ║ W2 • C2C • 1099 • Contract • Contract-to-Hire • FTE            ║
+║ 05 ║ ⚙ ATS Ecosystem              ║ Bullhorn • JobDiva • Ceipal • iCIMS • Taleo • Zoho Recruit     ║
+║ 06 ║ 🛰 VMS Operations             ║ Fieldglass • Beeline • IQNavigator • VectorVMS                 ║
+║ 07 ║ 🧠 Technical Recruiting      ║ Cloud • Data • AI • Cyber • ERP • DevOps • Software            ║
+║ 08 ║ 📑 Compliance                ║ Work authorization documentation & hiring workflow awareness   ║
+║ 09 ║ 🤝 Stakeholder Partnership   ║ Hiring Managers • Vendors • Candidates • Recruiting Teams      ║
+║ 10 ║ 🚀 Pipeline Engineering      ║ Active sourcing, passive outreach & internal database mining   ║
+║ 11 ║ 📈 Recruiting Analytics      ║ Pipeline visibility • Funnel tracking • Recruiting insights    ║
+║ 12 ║ 🤖 AI Recruiting             ║ AI-assisted research, sourcing, outreach & workflow automation ║
+║ 13 ║ 🧩 Employer Branding         ║ Candidate engagement & recruiter brand development             ║
+║ 14 ║ ⚡ Delivery Mindset           ║ Quality-first execution with structured recruiting processes   ║
+║ 15 ║ 🔄 Continuous Improvement    ║ Process optimization through automation & data-driven reviews  ║
+╚════╩══════════════════════════════╩══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🛣️ Continuous Improvement Roadmap
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                      RECRUITMENT AUTOMATION ROADMAP                                 ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║ ✅ Enterprise GitHub Portfolio                                                      ║
+║ ✅ Advanced Recruiter Branding                                                      ║
+║ ✅ ATS & VMS Knowledge Base                                                         ║
+║ ✅ Boolean & X-Ray Search Library                                                   ║
+║ ✅ AI Recruiting Workflow Documentation                                             ║
+║ ███████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  65%               ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║ ⏳ AI Resume Analyzer                                                               ║
+║ ⏳ Candidate Matching Engine                                                        ║
+║ ⏳ Recruiter Analytics Dashboard                                                    ║
+║ ⏳ Automated Outreach Templates                                                     ║
+║ ⏳ Interview Intelligence Toolkit                                                   ║
+║ ⏳ Talent Market Insights                                                           ║
+║ ⏳ Recruiting KPI Dashboard                                                         ║
+║ ⏳ Personal Recruiter Website                                                       ║
+║ ⏳ Open Source Recruiting Toolkit                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### ⚡ Recruit • Engage • Evaluate • Deliver
+
+*Building scalable recruiting pipelines through technology, automation, market intelligence, and human relationships.*
+
+</div>
+
+---		
 			
 <!-- ═══════════════════════════════════════════════════════════════════════════			
      [18]  PLACEMENT ANALYTICS — RICH ASCII CHARTS			
@@ -1116,7 +1080,7 @@ F-->>U: Show output
   W2 Contract       ▓▓▓▓▓▓░░░  26%      Data / ML / AI        ▓▓▓▓▓▓░░░  26%			
   Contract-to-Hire  ▓▓▓▓▓░░░░  22%      Full Stack Dev        ▓▓▓▓▓░░░░  20%			
   Full-Time (FTE)   ▓▓▓▓░░░░░  14%      SAP / Oracle / ERP    ▓▓▓░░░░░░  10%			
-                                          Cyber / Network       ▓▓░░░░░░░   6%			
+                                          Cyber / Network        ▓▓░░░░░░░   6%			
 			
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━			
   📊 US GEOGRAPHY BREAKDOWN            📊 CLIENT SIZE MIX			
@@ -1152,224 +1116,752 @@ F-->>U: Show output
   Client Repeat Rate       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  88%			
   Candidate Satisfaction   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  97%  (4.9/5.0 survey avg)			
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━			
-```			
+```
+
+---
+# 🛰️ TALENT ACQUISITION COMMAND CENTER
+
+```text
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                    US RECRUITING OPERATIONS CENTER v10.0                                                 ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  █ SYSTEM STATUS                                                                                                           ║
+║                                                                                                                            ║
+║   ● Talent Intelligence Engine               ONLINE            ███████████████████████████████████████████████            ║
+║   ● Candidate Discovery Network              ACTIVE            ███████████████████████████████████████████████            ║
+║   ● AI Resume Intelligence                   RUNNING           ███████████████████████████████████████████████            ║
+║   ● Boolean Search Engine                    READY             ███████████████████████████████████████████████            ║
+║   ● X-Ray Search Grid                        READY             ███████████████████████████████████████████████            ║
+║   ● ATS Synchronization                      CONNECTED         ███████████████████████████████████████████████            ║
+║   ● Vendor Management                        OPERATIONAL       ███████████████████████████████████████████████            ║
+║   ● Federal Recruiting                       SECURE            ███████████████████████████████████████████████            ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  🌎 RECRUITING COVERAGE                                                                                            LIVE    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  🇺🇸 Nationwide Recruiting                                                                                        ACTIVE    ║
+║  🏛 Federal Programs                                                                                              READY     ║
+║  🏢 State Government                                                                                              READY     ║
+║  💼 Commercial Clients                                                                                            ONLINE    ║
+║  🚀 Fortune 500 Hiring                                                                                            ONLINE    ║
+║  🌐 Remote • Hybrid • Onsite                                                                                      ENABLED   ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  🔍 SOURCING INTELLIGENCE                                                                                                     ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  Boolean Search                ████████████████████████████████████████████████████████████████████████                  ║
+║  Google X-Ray                  ████████████████████████████████████████████████████████████████████████                  ║
+║  LinkedIn Recruiter            ████████████████████████████████████████████████████████████████████████                  ║
+║  GitHub Talent Search          ████████████████████████████████████████████████████████████████████████                  ║
+║  Portfolio Discovery           ████████████████████████████████████████████████████████████████████████                  ║
+║  Passive Candidate Mining      ████████████████████████████████████████████████████████████████████████                  ║
+║  Internal Database Search      ████████████████████████████████████████████████████████████████████████                  ║
+║  AI Candidate Discovery        ████████████████████████████████████████████████████████████████████████                  ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  ⚙ ATS / CRM / VMS ECOSYSTEM                                                                                                 ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  ATS        Bullhorn │ JobDiva │ Ceipal │ iCIMS │ Taleo │ Zoho Recruit │ Greenhouse │ Lever │ Workday                ║
+║  CRM        Bullhorn │ Crelate │ Zoho CRM │ Recruit CRM                                                          ║
+║  VMS        Fieldglass │ Beeline │ IQNavigator │ VectorVMS │ SAP Ariba │ Coupa                            ║
+║  AI         HireEZ │ SeekOut │ Fetcher │ Findem │ Juicebox │ AI Boolean │ AI Resume Matching             ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  🧠 TECHNICAL HIRING DOMAINS                                                                                                  ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  Cloud Engineering              ██████████████████████████████████████████████████████████████████████████               ║
+║  AI / ML / GenAI                ██████████████████████████████████████████████████████████████████████████               ║
+║  Data Engineering               ██████████████████████████████████████████████████████████████████████████               ║
+║  Cybersecurity                  █████████████████████████████████████████████████████████████████████████                ║
+║  DevOps / SRE                   █████████████████████████████████████████████████████████████████████████                ║
+║  SAP / Oracle                   ██████████████████████████████████████████████████████████████████████                  ║
+║  Java / .NET / Python           ██████████████████████████████████████████████████████████████████████████               ║
+║  Salesforce                     ███████████████████████████████████████████████████████████████████████                 ║
+║  Product Engineering            ███████████████████████████████████████████████████████████████████████                 ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  🚀 DELIVERY CAPABILITIES                                                                                                     ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                            ║
+║  ✓ Full-Cycle Recruiting                                                                                                   ║
+║  ✓ Technical Screening                                                                                                     ║
+║  ✓ Candidate Engagement                                                                                                    ║
+║  ✓ Offer Coordination                                                                                                      ║
+║  ✓ Vendor Management                                                                                                       ║
+║  ✓ Immigration Documentation                                                                                                ║
+║  ✓ I-9 / E-Verify                                                                                                          ║
+║  ✓ Federal Compliance                                                                                                      ║
+║  ✓ W2 / C2C / 1099 Hiring                                                                                                  ║
+║  ✓ Executive Search                                                                                                        ║
+║                                                                                                                            ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                      █ RECRUIT. ENGAGE. DELIVER. REPEAT. █                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```					
 			
----			
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════════════
+     [19] RECRUITMENT TECHNOLOGY ECOSYSTEM
+     ════════════════════════════════════════════════════════════════════════════════ -->
+
+# 🛠️ Recruitment Technology Ecosystem
+
+```text
+╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                              R E C R U I T M E N T   T E C H N O L O G Y                         ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🗄️ ATS / CRM                  │ 🌐 SOURCING PLATFORMS                                            ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ ● Bullhorn                    │ ● LinkedIn Recruiter                                             ║
+║ ● JobDiva                     │ ● Dice                                                           ║
+║ ● PeopleFluent                │ ● Monster                                                        ║
+║                               │ ● CareerBuilder                                                  ║
+║                               │ ● Indeed Resume                                                  ║
+║                               │ ● GitHub                                                         ║
+║                               │ ● Google X-Ray Search                                            ║
+║                               │ ● Boolean Search                                                 ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ 📋 VMS / MSP                  │ 🤖 AI-ASSISTED RECRUITING                                        ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ ● VectorVMS                   │ ● AI-Assisted Candidate Discovery                                ║
+║ ● SAP Fieldglass              │ ● AI-Enhanced Boolean Generation                                 ║
+║                               │ ● Resume Optimization                                            ║
+║                               │ ● Job Description Analysis                                       ║
+║                               │ ● Candidate Outreach Drafting                                    ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ 💬 COLLABORATION              │ 📈 PRODUCTIVITY                                                  ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ ● Microsoft Teams             │ ● Microsoft Excel                                                ║
+║ ● Zoom                        │ ● Google Workspace                                               ║
+║ ● Outlook                     │ ● Microsoft Office                                               ║
+║ ● Gmail                       │ ● Calendar Scheduling                                            ║
+║                               │ ● Documentation & Reporting                                      ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ 📑 COMPLIANCE                 │ 🎯 RECRUITMENT OPERATIONS                                        ║
+╠════════════════════════════════╪═══════════════════════════════════════════════════════════════════╣
+║ ● Work Authorization Review   │ ● Full-Cycle Recruitment                                         ║
+║ ● Visa Documentation          │ ● Technical Screening                                            ║
+║ ● I-9 Documentation           │ ● Rate Negotiation                                               ║
+║ ● Recruitment Compliance      │ ● Interview Coordination                                         ║
+║                               │ ● Offer Management                                               ║
+║                               │ ● Consultant Redeployment                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### ⚡ Primary Recruiting Stack
+
+| ATS | Sourcing | Search | VMS | Productivity |
+|:---:|:--------:|:------:|:---:|:------------:|
+| JobDiva | LinkedIn Recruiter | Boolean | VectorVMS | Microsoft 365 |
+| Bullhorn | Dice | Google X-Ray | Fieldglass | Google Workspace |
+| PeopleFluent | Monster | GitHub | — | Excel |
+
+</div>
+
+---
+
+## 🚀 Core Capabilities
+
+<div align="center">
+
+`Full-Cycle Recruitment`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Passive Talent Sourcing`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Federal & State Staffing`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Commercial Hiring`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Technical Screening`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Boolean Search`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Google X-Ray`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`AI-Assisted Recruiting`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Pipeline Management`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`ATS Administration`
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════════════
+     [17] PROFESSIONAL TIMELINE
+     ════════════════════════════════════════════════════════════════════════════════ -->
+
+## 💼 Professional Timeline
+
+```text
+══════════════════════════════════════════════════════════════════════════════════════════════
+                                S A C H I N   R
+                  10+ YEARS • US IT RECRUITMENT • TALENT ACQUISITION
+══════════════════════════════════════════════════════════════════════════════════════════════
+
+◉ Jan 2026 – May 2026
+┃
+┃  💼 Lead Recruiter
+┃  🏢 Staffworxs
+┃  🌎 Federal • State • Commercial Recruiting
+┃
+┃  ✦ Recruited for AI/ML, Cloud, Cybersecurity, Infrastructure & Networking roles.
+┃  ✦ Supported hiring across Georgia, Texas, New York, New Jersey and other U.S. states.
+┃  ✦ Conducted candidate screening, technical qualification and pay-rate negotiations.
+┃  ✦ Coordinated interviews with hiring managers and delivery teams.
+┃  ✦ Built AI-assisted sourcing workflows to improve recruiter productivity.
+┃  ✦ Managed candidate pipelines, reports and recruiting metrics using JobDiva ATS.
+┃  ✦ Leveraged LinkedIn Recruiter, Dice, GitHub, Monster, Boolean & Google X-Ray sourcing.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2025 – Dec 2025
+┃
+┃  💼 Senior US IT Recruiter
+┃  🏢 V2Soft
+┃  🏦 Banking • Automotive • Healthcare • Manufacturing • State Clients
+┃
+┃  ✦ Delivered full-cycle recruitment for Contract, Contract-to-Hire and Full-Time hiring.
+┃  ✦ Partnered with hiring managers, account managers and delivery teams.
+┃  ✦ Built strategic W2 consultant pipelines for niche technology positions.
+┃  ✦ Executed advanced LinkedIn Recruiter, Boolean and Google X-Ray sourcing.
+┃  ✦ Utilized GitHub, Stack Overflow and contact discovery platforms for passive sourcing.
+┃  ✦ Conducted technical screening, interview coordination, offer negotiation and onboarding.
+┃  ✦ Maintained consultant redeployment pipelines and ATS documentation using JobDiva.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ Sep 2020 – Mar 2025
+┃
+┃  💼 Lead Technical Recruiter
+┃  🏢 i-Link Solutions
+┃  🏛 Federal • State • Commercial • MSP / VMS Programs
+┃
+┃  ✦ Delivered end-to-end recruitment for Federal, State and Commercial clients.
+┃  ✦ Managed requisitions through VectorVMS and PeopleFluent platforms.
+┃  ✦ Built scalable W2 consultant pipelines, C2C vendor networks and redeployment pools.
+┃  ✦ Executed advanced Boolean, Google X-Ray and AI-assisted sourcing strategies.
+┃  ✦ Validated work authorization, visa documentation and consultant compliance.
+┃  ✦ Coordinated onboarding with compliance, HR and legal stakeholders.
+┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
+┃  ✦ Optimized resumes and submission packages for hiring manager review.
+┃  ✦ Guided consultants through interviews, offers, onboarding and post-placement support.
+┃  ✦ Mentored recruiters on sourcing, ATS workflows and recruitment best practices.
+┃  ✦ Tracked recruitment KPIs and continuously improved hiring efficiency.
+┃  ✦ Supported H1B workforce planning with immigration and legal teams.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ Aug 2018 – Feb 2020
+┃
+┃  💼 Senior Technical Recruiter
+┃  🏢 Q Analysts LLC
+┃  🚀 Fortune 500 • AI/ML • Big Tech Programs
+┃
+┃  ✦ Supported enterprise technology hiring across multiple client programs.
+┃  ✦ Recruited for AI/ML, NLP, Speech Data and Voice Technology initiatives.
+┃  ✦ Delivered QA and Testing professionals for advanced technology projects.
+┃  ✦ Supported AR, VR, XR and Smart Device testing programs.
+┃  ✦ Managed recruitment activities using Bullhorn ATS.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2015 – Jul 2018
+┃
+┃  💼 US IT Recruiter
+┃  🏢 ObjectWin Technologies
+┃  💻 W2 • C2C • Contract • Contract-to-Hire • Full-Time
+┃
+┃  ✦ Delivered full-cycle recruitment across IT and Non-IT positions.
+┃  ✦ Specialized in W2 and C2C consultant hiring.
+┃  ✦ Sourced candidates via LinkedIn Recruiter, Dice, Monster and CareerBuilder.
+┃  ✦ Negotiated compensation, bill rates and consultant engagement terms.
+┃  ✦ Maintained consultant pipelines and ATS records using JobDiva.
+┃  ✦ Supported onboarding, compliance documentation and consultant engagement.
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+
+◉ May 2013 – Apr 2015
+┃
+┃  💼 Technical Recruiter
+┃  🏢 Pragna Technologies
+┃  🌱 Career Foundation • US Staffing
+┃
+┃  ✦ Began career supporting U.S. Contract and Contract-to-Hire recruitment.
+┃  ✦ Conducted candidate sourcing, resume review and technical screening.
+┃  ✦ Coordinated interviews, candidate communication and hiring workflows.
+┃  ✦ Learned U.S. staffing processes, tax terms and work authorization categories.
+┃  ✦ Built a strong foundation in Boolean sourcing and candidate relationship management.
+
+══════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+---
+
+# 📊 Career Snapshot
+
+<div align="center">
+
+| Category | Details |
+|:---------|:--------|
+| 💼 **Experience** | **10+ Years** in US IT Recruitment |
+| 🏢 **Organizations** | **6** Staffing & Technology Consulting Firms |
+| 🌎 **Clients** | Federal • State • Commercial • Fortune 500 |
+| 📍 **Coverage** | Nationwide Recruitment across all 50 U.S. States + D.C. |
+| 🤝 **Hiring Models** | W2 • C2C • 1099 • Contract • CTH • Full-Time |
+| 🔍 **Sourcing** | LinkedIn Recruiter • GitHub • Dice • Monster • CareerBuilder • Indeed |
+| ⚡ **Search Expertise** | Boolean • Google X-Ray • AI-Assisted Talent Discovery |
+| 🗄️ **ATS / CRM** | JobDiva • Bullhorn • PeopleFluent |
+| 🔄 **VMS Platforms** | VectorVMS • Fieldglass • Beeline • IQNavigator |
+| ☁️ **Technology Focus** | AI • Cloud • Cybersecurity • DevOps • Data • ERP • Enterprise Applications |
+
+</div>
+		
+---
+
+# 🎯 Technology & Industry Expertise
+
+<div align="center">
+
+## ☁️ Technology Domains
+
+![Cloud](https://img.shields.io/badge/☁️_Cloud-AWS_|_Azure_|_GCP-0ea5e9?style=for-the-badge)
+![AI](https://img.shields.io/badge/🤖_AI_&_Machine_Learning-GenAI_|_LLMs_|_NLP-16a34a?style=for-the-badge)
+![Data](https://img.shields.io/badge/📊_Data_Engineering-Analytics_|_BI_|_Snowflake-7c3aed?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/⚙️_DevOps-SRE_|_Platform_|_Kubernetes-0d9488?style=for-the-badge)
+
+![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-IAM_|_SOC_|_GRC-dc2626?style=for-the-badge)
+![Software](https://img.shields.io/badge/💻_Software_Engineering-Java_|_.NET_|_Python-6366f1?style=for-the-badge)
+![ERP](https://img.shields.io/badge/🏗️_ERP-SAP_|_Oracle_|_Workday-f59e0b?style=for-the-badge)
+![CRM](https://img.shields.io/badge/💼_CRM-Salesforce_|_Dynamics_365-00A1E0?style=for-the-badge)
+
+![QA](https://img.shields.io/badge/🧪_Quality_Assurance-SDET_|_Automation-84cc16?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/🌐_Infrastructure-Network_|_Cisco_|_Windows-64748b?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/📡_Embedded-IoT_|_Firmware_|_FPGA-b45309?style=for-the-badge)
+![Project](https://img.shields.io/badge/📋_Project_Management-PMO_|_Agile_|_Scrum-e11d48?style=for-the-badge)
+
+![UIUX](https://img.shields.io/badge/🎨_UI_|_UX-Product_Design-db2777?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/📱_Mobile-iOS_|_Android_|_React_Native-0369a1?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/🔗_Blockchain-Web3_|_DeFi-8b5cf6?style=for-the-badge)
+
+<br><br>
+
+## 🏢 Industry Verticals
+
+![Government](https://img.shields.io/badge/🏛️_Federal_|_State_|_Government-dc2626?style=flat-square)
+![Banking](https://img.shields.io/badge/🏦_Banking_|_Finance_|_FinTech-1d4ed8?style=flat-square)
+![Healthcare](https://img.shields.io/badge/🏥_Healthcare_|_Life_Sciences_|_HIPAA-ec4899?style=flat-square)
+![Insurance](https://img.shields.io/badge/🛡️_Insurance_|_InsurTech-8b5cf6?style=flat-square)
+
+![Automotive](https://img.shields.io/badge/🚗_Automotive_|_Manufacturing-64748b?style=flat-square)
+![Energy](https://img.shields.io/badge/⚡_Energy_|_Utilities-16a34a?style=flat-square)
+![Retail](https://img.shields.io/badge/🛍️_Retail_|_eCommerce-f59e0b?style=flat-square)
+![Telecom](https://img.shields.io/badge/📡_Telecom_|_Media-0d9488?style=flat-square)
+
+![Consulting](https://img.shields.io/badge/📊_Consulting_|_System_Integrators-7c3aed?style=flat-square)
+![Education](https://img.shields.io/badge/🎓_Education_|_EdTech-f97316?style=flat-square)
+
+<br>
+
+> **Specializing in sourcing and recruiting professionals across niche technology domains, enterprise platforms, cloud ecosystems, AI initiatives, cybersecurity, and digital transformation programs for Federal, State, and Commercial clients across the United States.**
+
+</div>		
 			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [19]  TOOLS MATRIX			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
+---
+
+# 🚀 Technology Ecosystem & Industry Coverage
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&lines=Delivering+Talent+Across+the+Entire+Modern+Technology+Landscape;Federal+%7C+State+%7C+Commercial+Recruitment;Cloud+%7C+AI+%7C+Cybersecurity+%7C+Data+Engineering+%7C+Enterprise+Platforms" />
+
+</div>
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Enterprise_Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP_Platform-4285F4?style=for-the-badge&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Containers-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge)
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<div align="center">
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-10B981?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML_Engineering-059669?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Language_Models-0EA5E9?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-CV_AI-6366F1?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-AI_Platforms-8B5CF6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM_Workflows-F43F5E?style=for-the-badge)
+
+</div>
+
+---
+
+# 💻 Software Engineering
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-Spring_Boot-E11D48?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-C%23_&_ASP.NET-512BD4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Backend_AI-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-React_NodeJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Golang-Microservices-00ADD8?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/iOS_&_Android-Mobile-0284C7?style=for-the-badge)
+
+</div>
+
+---
+
+# 📊 Data & Analytics
+
+<div align="center">
+
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_Data-29B5E8?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-EF3E42?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Business_Intelligence-E97627?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-ETL_&_Pipelines-7C3AED?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big_Data-Spark_Hadoop-9333EA?style=for-the-badge)
+
+</div>
+
+---
+
+# 🔐 Cybersecurity
+
+<div align="center">
+
+![IAM](https://img.shields.io/badge/IAM-Identity_&_Access-DC2626?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-Security_Operations-B91C1C?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Security-E11D48?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-CSPM-991B1B?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-Firewalls-7F1D1D?style=for-the-badge)
+![Governance](https://img.shields.io/badge/GRC-Compliance-881337?style=for-the-badge)
+
+</div>
+
+---
+
+# 🏢 Enterprise Platforms
+
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP-S4_HANA-0FAAFF?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-ERP-F80000?style=for-the-badge&logo=oracle)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-81B441?style=for-the-badge)
+![Workday](https://img.shields.io/badge/Workday-HCM-FC6D26?style=for-the-badge)
+![Dynamics](https://img.shields.io/badge/Dynamics_365-ERP_&_CRM-0078D4?style=for-the-badge)
+
+</div>
+
+---
+
+# 🌎 Industry Expertise
+
+<div align="center">
+
+| 🏛️ Public Sector | 💰 Financial Services | 🏥 Healthcare |
+|:---:|:---:|:---:|
+| Federal Agencies | Banking | Hospitals |
+| State Governments | Capital Markets | Pharma |
+| Local Government | FinTech | Healthcare IT |
+
+| 🏭 Enterprise | 🛒 Digital | ⚡ Infrastructure |
+|:---:|:---:|:---:|
+| Manufacturing | Retail | Energy |
+| Automotive | eCommerce | Utilities |
+| Logistics | Media | Telecom |
+
+| 🛰️ Emerging Technology |
+|:---:|
+| Artificial Intelligence |
+| Cloud Computing |
+| Cybersecurity |
+| IoT |
+| AR / VR / XR |
+| Blockchain |
+| Robotics |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Recruitment Coverage
+
+```text
+Cloud ☁️      ████████████████████████
+AI / ML 🤖    ████████████████████████
+Cyber 🔐      ███████████████████████░
+Software 💻   ████████████████████████
+Data 📊       ███████████████████████░
+ERP 🏢        ██████████████████████░░
+QA 🧪         ██████████████████████░░
+Infrastructure🌐██████████████████████
+```
+
+**Supporting Federal • State • Fortune 500 • Global System Integrators • Product Companies • Consulting Firms • Digital Transformation Programs across the United States**
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════════════
+     [15] SKILLS & COMPETENCY MATRIX
+     ════════════════════════════════════════════════════════════════════════════════ -->
+
+# 🛠️ Skills & Competency Matrix
+
+```text
+╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                               U S   I T   R E C R U I T M E N T                                 ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ CORE RECRUITING EXPERTISE                                PROFICIENCY        EXPERIENCE           ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Full-Cycle US IT Recruitment                             ████████████████████   10+ Years       ║
+║ Boolean Search & Google X-Ray Sourcing                   ████████████████████   10+ Years       ║
+║ W2 • C2C • 1099 • Corp-to-Corp Hiring                    ████████████████████   10+ Years       ║
+║ LinkedIn Recruiter & Passive Talent Sourcing             ███████████████████░    9+ Years       ║
+║ Technical Screening & Candidate Assessment               ███████████████████░    9+ Years       ║
+║ Candidate Experience & Relationship Management           ███████████████████░   10+ Years       ║
+║ Offer Negotiation & Closing                              ██████████████████░░   10+ Years       ║
+║ Salary & Rate Negotiation                                ██████████████████░░   10+ Years       ║
+║ Resume Optimization & Marketing                          ██████████████████░░   10+ Years       ║
+║ Talent Pipeline Development                              ███████████████████░   10+ Years       ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ ATS • CRM • VMS PLATFORMS                                                                    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Bullhorn ATS                                             ███████████████████░                    ║
+║ JobDiva                                                  ███████████████████░                    ║
+║ Ceipal                                                   ██████████████████░░                    ║
+║ PeopleFluent                                             ██████████████████░░                    ║
+║ VectorVMS                                                ██████████████████░░                    ║
+║ Fieldglass                                               █████████████████░░░                    ║
+║ Beeline                                                  █████████████████░░░                    ║
+║ iCIMS                                                    ████████████████░░░░                    ║
+║ Taleo                                                    ████████████████░░░░                    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ SOURCING CHANNELS                                                                              ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ LinkedIn Recruiter                                      ████████████████████                    ║
+║ GitHub                                                   ███████████████████░                    ║
+║ Dice                                                     ████████████████████                    ║
+║ Monster                                                  ███████████████████░                    ║
+║ CareerBuilder                                            ██████████████████░░                    ║
+║ Indeed Resume                                            ██████████████████░░                    ║
+║ Google X-Ray                                             ████████████████████                    ║
+║ Boolean Search                                           ████████████████████                    ║
+║ Internal Candidate Database                              ████████████████████                    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ RECRUITMENT SPECIALIZATIONS                                                                   ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Federal & State Government Staffing                      ███████████████████░                    ║
+║ Commercial Technology Recruiting                         ████████████████████                    ║
+║ AI / Machine Learning                                    ██████████████████░░                    ║
+║ Cloud Infrastructure                                     ██████████████████░░                    ║
+║ Cybersecurity                                            ██████████████████░░                    ║
+║ Data Engineering                                         ██████████████████░░                    ║
+║ Software Engineering                                     ███████████████████░                    ║
+║ ERP / CRM Technologies                                   █████████████████░░░                    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ PROFESSIONAL STRENGTHS                                                                        ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ ✔ Full-Cycle Recruitment                                                         Expert         ║
+║ ✔ Passive Talent Engagement                                                     Expert         ║
+║ ✔ Pipeline Building & Talent Communities                                         Expert         ║
+║ ✔ Stakeholder & Hiring Manager Partnership                                      Advanced       ║
+║ ✔ Interview Coordination & Offer Management                                     Advanced       ║
+║ ✔ Compliance & Work Authorization Validation                                    Advanced       ║
+║ ✔ Recruitment Analytics & KPI Tracking                                          Advanced       ║
+║ ✔ AI-Assisted Recruiting Workflows                                               Advanced       ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### 🎯 Core Focus Areas
+
+`US IT Recruitment` • `Federal & State Staffing` • `Commercial Hiring` • `Boolean Search`
+`Google X-Ray` • `LinkedIn Recruiter` • `Passive Talent`
+`ATS Administration` • `Pipeline Development`
+`W2` • `C2C` • `1099`
+`AI-Assisted Recruiting`
+
+</div>
 			
-## 🔧 Tools, Platforms & Tech Stack			
-			
-```			
-┌──────────────────┬──────────────────┬──────────────────┬──────────────────┐			
-│   🗄️  ATS / CRM  │  🌐 Job Boards   │   📋 VMS / MSP   │  🤖 AI Sourcing  │			
-├──────────────────┼──────────────────┼──────────────────┼──────────────────┤			
-│ ✅ Bullhorn       │ ✅ LinkedIn Rec  │ ✅ Beeline        │ ✅ HireEZ        │			
-│ ✅ Greenhouse     │ ✅ Dice.com      │ ✅ Fieldglass     │ ✅ Hiretual      │			
-│ ✅ Lever          │ ✅ Monster       │ ✅ SAP Ariba      │ ✅ Fetcher.ai    │			
-│ ✅ Workday ATS    │ ✅ Indeed        │ ✅ IQNavigator    │ ✅ Findem.ai     │			
-│ ✅ iCIMS          │ ✅ CareerBuilder │ ✅ Coupa          │ ✅ Juicebox.io   │			
-│ ✅ SmartRecruit   │ ✅ ZipRecruiter  │ ✅ Hirequest      │ ✅ SeekOut       │			
-│ ✅ Taleo (Oracle) │ ✅ Stack Overflow│ ✅ PRO Unlimited  │ ✅ Entelo        │			
-│ ✅ Zoho Recruit   │ ✅ AngelList     │ ✅ Agile1         │ ✅ AI X-Ray Src  │			
-│ ✅ Jobvite        │ ✅ GitHub Jobs   │ ✅ Pontoon        │ ✅ Eightfold.ai  │			
-└──────────────────┴──────────────────┴──────────────────┴──────────────────┘			
-			
-┌──────────────────┬──────────────────┬──────────────────┬──────────────────┐			
-│  📊 Analytics    │  💬 Comms        │  🛠️ Productivity  │  🔐 Compliance   │			
-├──────────────────┼──────────────────┼──────────────────┼──────────────────┤			
-│ ✅ Tableau       │ ✅ Slack         │ ✅ Notion        │ ✅ I-9/E-Verify  │			
-│ ✅ Excel + BI    │ ✅ MS Teams      │ ✅ Trello        │ ✅ OFCCP Rules   │			
-│ ✅ Looker        │ ✅ Zoom          │ ✅ Asana         │ ✅ EEOC Comply   │			
-│ ✅ Google Data   │ ✅ Outreach.io   │ ✅ Calendly      │ ✅ SOC2 Aware    │			
-│ ✅ Recruiter AQ  │ ✅ Loom          │ ✅ ClickUp       │ ✅ GDPR/CCPA     │			
-└──────────────────┴──────────────────┴──────────────────┴──────────────────┘			
-```			
----			
-			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [17]  EXPERIENCE TIMELINE  — DETAILED			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## 💼 Professional Timeline			
-			
-```			
-══════════════════════════════════════════════════════════════════════════════════════			
-  TIMELINE  |  S A C H I N  —  10+ YEARS US IT RECRUITING EXCELLENCE			
-══════════════════════════════════════════════════════════════════════════════════════			
-			
- ◉ 2022–2025  LEAD SENIOR IT RECRUITER                      [ROLLING OFF — NOW FREE!]			
- ┃             TechStride Staffing Inc.  ·  Remote, United States			
- ┃             			
- ┃             ✦ Led team of 12 recruiters · 50+ open requisitions at peak			
- ┃             ✦ 420 placements in 2024 alone — personal record 🏆			
- ┃             ✦ Cut avg time-to-submit from 72 hrs → 34 hrs via AI tools			
- ┃             ✦ $8M+ annual revenue · 96% offer acceptance rate			
- ┃             ✦ Owner: Cloud + AI/ML + Data verticals			
- ┃             ✦ Onboarded 3 Fortune 50 clients from scratch			
- ┃			
- ◉ 2020–2022  SENIOR IT RECRUITER II                         [Promoted — 2x raise]			
- ┃             SuccessHire USA  ·  US Remote + Bengaluru			
- ┃             			
- ┃             ✦ 400+ placements / year · C2C & W2 pipeline mastery			
- ┃             ✦ Passive candidate DB of 15,000+ pre-vetted US profiles			
- ┃             ✦ Managed VMS programs: Beeline, Fieldglass, Ariba			
- ┃             ✦ Highest single-month placements in team history (38 in May 2021)			
- ┃			
- ◉ 2018–2020  SENIOR IT RECRUITER                            [2+ years]			
- ┃             NovaTalent Corp  ·  Bengaluru (US Shift)			
- ┃             			
- ┃             ✦ Specialized: Java, Python, Salesforce, SAP, Cybersecurity			
- ┃             ✦ Opened and owned BFSI and Healthcare IT verticals			
- ┃             ✦ Trained 4 junior recruiters · mentored pipeline processes			
- ┃			
- ◉ 2016–2018  IT RECRUITER — US STAFFING                     [2+ years]			
- ┃             GlobalNexus Staffing  ·  Bengaluru			
- ┃             			
- ┃             ✦ 200+ placements in 2 years · zero misses on deadlines			
- ┃             ✦ First recruiter to close a Fortune 100 role in the team			
- ┃             ✦ Dice, Monster, CareerBuilder cold sourcing specialist			
- ┃			
- ◉ 2014–2016  JUNIOR TECHNICAL SOURCER                       [Career Start 🚀]			
-               TalentBridge India  ·  Bengaluru			
-               			
-               ✦ Boolean search mastery from day one			
-               ✦ H1B, OPT, GC, EAD fundamentals — built deep expertise			
-               ✦ First placement ever: Senior Java Dev, Dallas TX — Oct 2014			
-               ✦ Fell in love with US IT recruiting. Never looked back ❤️			
-			
-══════════════════════════════════════════════════════════════════════════════════════			
-```			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## 🎯 Domain & Industry Expertise			
-			
-<div align="center">			
-			
-**— Technology Domains —**			
-			
-![Cloud AWS](https://img.shields.io/badge/☁️_Cloud_%7C_AWS_%7C_Azure_%7C_GCP-0ea5e9?style=for-the-badge)			
-![AI ML](https://img.shields.io/badge/🤖_AI_%7C_ML_%7C_Gen_AI_%7C_LLMs-16a34a?style=for-the-badge)			
-![Data Engineering](https://img.shields.io/badge/📊_Data_Eng_%7C_Analytics_%7C_BI-7c3aed?style=for-the-badge)			
-![DevOps SRE](https://img.shields.io/badge/⚙️_DevOps_%7C_SRE_%7C_Platform-0d9488?style=for-the-badge)			
-![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity_%7C_IAM_%7C_SOC-dc2626?style=for-the-badge)			
-![Full Stack](https://img.shields.io/badge/💻_Full_Stack_%7C_Java_%7C_Python_.NET-6366f1?style=for-the-badge)			
-![SAP ERP](https://img.shields.io/badge/🏗️_SAP_%7C_Oracle_%7C_ERP_%7C_FICO-f59e0b?style=for-the-badge)			
-![Salesforce](https://img.shields.io/badge/💼_Salesforce_%7C_Service_Cloud-00A1E0?style=for-the-badge)			
-![QA Automation](https://img.shields.io/badge/🧪_QA_%7C_SDET_%7C_Automation-84cc16?style=for-the-badge)			
-![Embedded IoT](https://img.shields.io/badge/📡_Embedded_%7C_IoT_%7C_FPGA-b45309?style=for-the-badge)			
-![PMO PMP](https://img.shields.io/badge/📋_PMO_%7C_PMP_%7C_Agile_%7C_Scrum-e11d48?style=for-the-badge)			
-![Network Infra](https://img.shields.io/badge/🌐_Network_%7C_Cisco_%7C_Infra-64748b?style=for-the-badge)			
-![UI UX](https://img.shields.io/badge/🎨_UI_%7C_UX_%7C_Product_Design-db2777?style=for-the-badge)			
-![Blockchain](https://img.shields.io/badge/🔗_Blockchain_%7C_Web3_%7C_DeFi-8b5cf6?style=for-the-badge)			
-![Mobile](https://img.shields.io/badge/📱_iOS_%7C_Android_%7C_React_Native-0369a1?style=for-the-badge)			
-			
-**— Industry Verticals —**			
-			
-![BFSI](https://img.shields.io/badge/🏦_Banking_%7C_Finance_%7C_FinTech-1d4ed8?style=flat-square)			
-![Healthcare](https://img.shields.io/badge/🏥_Healthcare_%7C_Pharma_%7C_HIPAA-ec4899?style=flat-square)			
-![Big4 Consulting](https://img.shields.io/badge/📊_Big_4_%7C_Consulting_%7C_SI-7c3aed?style=flat-square)			
-![Retail eComm](https://img.shields.io/badge/🛍️_Retail_%7C_eCommerce-f59e0b?style=flat-square)			
-![Energy Utilities](https://img.shields.io/badge/⚡_Energy_%7C_Utilities-16a34a?style=flat-square)			
-![Government](https://img.shields.io/badge/🏛️_Government_%7C_Defense-dc2626?style=flat-square)			
-![Manufacturing](https://img.shields.io/badge/🏭_Manufacturing_%7C_Automotive-64748b?style=flat-square)			
-![Telecom](https://img.shields.io/badge/📡_Telecom_%7C_Media_%7C_OTT-0d9488?style=flat-square)			
-![Insurance](https://img.shields.io/badge/🛡️_Insurance_%7C_InsurTech-8b5cf6?style=flat-square)			
-![Education](https://img.shields.io/badge/🎓_EdTech_%7C_Education-f97316?style=flat-square)			
-			
-</div>			
-			
----			
-			
-<!-- ═══════════════════════════════════════════════════════════════════════════			
-     [15]  SKILL COMPETENCY MATRIX			
-     ═══════════════════════════════════════════════════════════════════════════ -->			
-			
-## 🛠️ Skills & Competency Levels			
-			
-```			
-╔═══════════════════════════════════════════════════════════════════════════════════╗			
-║  CORE RECRUITING SKILLS                    LEVEL   ████ BAR         YRS   ★★★  ║			
-╠═══════════════════════════════════════════════════════════════════════════════════╣			
-║  Full-Cycle US IT Recruiting               99%  ████████████████████  10+  ⭐⭐⭐ ║			
-║  Boolean & X-Ray Sourcing                  98%  ████████████████████  10+  ⭐⭐⭐ ║			
-║  US Tax Terms  (W2 / C2C / 1099)           99%  ████████████████████  10+  ⭐⭐⭐ ║			
-║  LinkedIn Recruiter Pro + Insights         97%  ████████████████████   9   ⭐⭐⭐ ║			
-║  Candidate Experience & NPS                96%  ███████████████████░   8   ⭐⭐⭐ ║			
-║  Technical Screening (Cloud/Dev/Data)      95%  ███████████████████░   8   ⭐⭐⭐ ║			
-║  ATS Administration & Optimization         94%  ███████████████████░   9   ⭐⭐⭐ ║			
-║  VMS / MSP / Vendor Neutral Programs       93%  ██████████████████░░   7   ⭐⭐⭐ ║			
-╠═══════════════════════════════════════════════════════════════════════════════════╣			
-║  LEADERSHIP & STRATEGY                                                           ║			
-╠═══════════════════════════════════════════════════════════════════════════════════╣			
-║  Team Leadership (12+ Recruiters)          90%  ██████████████████░░   5   ⭐⭐⭐ ║			
-║  Executive / VP / C-Suite Search           87%  █████████████████░░░   4   ⭐⭐½ ║			
-║  Workforce Planning & Talent Strategy      85%  █████████████████░░░   4   ⭐⭐½ ║			
-║  Employer Branding & EVP                   83%  ████████████████░░░░   4   ⭐⭐½ ║			
-╠═══════════════════════════════════════════════════════════════════════════════════╣			
-║  EMERGING & TECH TOOLS                                                           ║			
-╠═══════════════════════════════════════════════════════════════════════════════════╣			
-║  AI-Powered Sourcing (HireEZ, Fetcher)     85%  █████████████████░░░   3   ⭐⭐½ ║			
-║  Data Analytics & Recruiting Metrics       83%  ████████████████░░░░   4   ⭐⭐½ ║			
-║  Diversity, Equity & Inclusion Hiring      80%  ████████████████░░░░   3   ⭐⭐  ║			
-╚═══════════════════════════════════════════════════════════════════════════════════╝			
-```			
-			
----			
-			
----			
-			
-## 👁️ Visitors Who Caught the Aurora			
-			
-<div align="center">			
-			
-![Visitor Count](https://profile-counter.glitch.me/ITRecruitersachin/count.svg)			
-			
-*Recruiters · Candidates · Vendors · illuminated by the aurora*			
-			
-</div>			
-			
----			
-			
-## 🌠 Catch the Light · Enter the Aurora			
-			
-<div align="center">			
-			
-> *Rare talent shifts like the northern lights — and I know exactly where to look.*			
-> *All clients under NDA. 15K+ LinkedIn. Own candidate database. Results speak.*			
-			
-[![Email](https://img.shields.io/badge/%F0%9F%93%AC_Email_Me-Catch_The_Light-010d0a?style=for-the-badge&labelColor=065f46)](mailto:YOUR_EMAIL_HERE)			
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-15K%2B_Connections-010d0a?style=for-the-badge&labelColor=0d9488)](https://linkedin.com/in/recruitersachin)			
-[![Submit](https://img.shields.io/badge/%F0%9F%91%A4_Submit_Profile-Be_Discovered-010d0a?style=for-the-badge&labelColor=6d28d9)](mailto:YOUR_EMAIL_HERE?subject=Candidate%20Submission%20-%20Aurora%20Recruiter)			
-[![Calendly](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Call-15_Minutes-010d0a?style=for-the-badge&labelColor=0369a1)](https://calendly.com/YOUR_CALENDLY_SLUG)			
-			
-</div>			
-			
----			
-			
-<!-- FOOTER WAVE -->			
-<img src="https://capsule-render.vercel.app/api?type=waving&color=065f46,0d9488,06b6d4,6d28d9,010d0a&height=140&section=footer&text=ITRecruitersachin+%C2%B7+US+RECRUITER+%C2%B7+NICHE+TECH+%C2%B7+NDA+PROTECTED+%C2%B7+ALL+CLIENTS+CONFIDENTIAL&fontSize=10&fontColor=065f46&animation=fadeIn" width="100%"/>			
-			
-			
-			
-<!-- ████████████████████████████████████████████████████████████████████████████████████			
-     ███                                                                            ███			
-     ███      S A C H I N  —  LEAD SENIOR US IT RECRUITER                         ███			
-     ███      10★ MAXIMUM OVERDRIVE GITHUB PROFILE README                         ███			
-     ███      Every widget · Every stat · Every animation · Every API             ███			
-     ███                                                                            ███			
-     ████████████████████████████████████████████████████████████████████████████████████			
-     			
-     HOW TO USE THIS FILE:			
-     ─────────────────────			
-     1. Create a GitHub repo named EXACTLY your GitHub username			
-        e.g.  github.com/ITRecruitersachin/ITRecruitersachin			
-     2. Place this file as README.md in that repo			
-     3. Push and watch your profile come alive			
-     4. For the Snake animation, add the workflow in Step [SNAKE SETUP] below			
-     5. Replace all YOUR_USERNAME placeholders with your actual GitHub username			
-     6. Replace contact details, links, and years as needed			
-     			
-     ████████████████████████████████████████████████████████████████████████████████████ -->				
+---
+
+# 👁️ Visitors Who Discovered the Aurora
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/ITRecruitersachin/count.svg" alt="Visitor Counter" />
+
+<br><br>
+
+### 🌌 Recruiters • Hiring Managers • Candidates • Talent Partners
+
+*"Every visit is a new opportunity to connect exceptional talent with exceptional organizations."*
+
+</div>
+
+---
+
+# 🌠 Catch the Light • Enter the Aurora
+
+<div align="center">
+
+> ### *"Exceptional talent isn't always visible. The right recruiter knows where to look."*
+
+<br>
+
+### 🚀 Recruiting Expertise
+
+🏛️ **Federal • State • Commercial Recruiting**
+
+☁️ **AI/ML • Cloud • Cybersecurity • Data • ERP • Software Engineering**
+
+💼 **Full-Time • Contract • Contract-to-Hire • W2 • C2C • 1099**
+
+🌐 **15K+ LinkedIn Network • Curated Candidate Database • AI-Powered Talent Sourcing**
+
+<br>
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/📧_Email-Let's_Connect-065F46?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/recruitersachin">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL_HERE?subject=Candidate%20Submission">
+<img src="https://img.shields.io/badge/👤_Submit_Profile-Candidates-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://calendly.com/YOUR_CALENDLY_SLUG">
+<img src="https://img.shields.io/badge/📅_Book_a_Call-15_Minutes-0284C7?style=for-the-badge&logo=calendly&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ✨ Aurora Talent Network
+
+*Connecting organizations with exceptional technology professionals through strategic sourcing, trusted relationships, and modern recruiting.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20,24,30&text=THANK%20YOU%20FOR%20VISITING&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+### ⭐ If you found my profile helpful, consider giving it a ⭐
+
+**© 2026 Sachin R Jain • Senior US IT Recruiter • Bengaluru, India**
+
+*Federal • State • Commercial • AI • Cloud • Cybersecurity • Data Engineering*
+
+</div>
+
+# 🌌 Connect • Collaborate • Build Exceptional Teams
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=20\&duration=3500\&pause=1200\&color=00E5FF\&center=true\&vCenter=true\&width=850\&lines=Always+Open+to+Recruiting+Conversations;Hiring+Top+US+Technology+Talent;Federal+%7C+State+%7C+Commercial+Hiring;Let's+Build+Exceptional+Teams+Together" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/recruitersachin">
+<img src="https://img.shields.io/badge/💼\_LinkedIn-Connect\_Now-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white"/>
+</a>
+
+<a href="mailto:writeforsachin@gmail.com">
+<img src="https://img.shields.io/badge/📧\_Email-Send\_Message-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white"/>
+</a>
+
+<a href="tel:+919742080111">
+<img src="https://img.shields.io/badge/📞\_Call-Let's\_Talk-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919742080111">
+<img src="https://img.shields.io/badge/💬\_WhatsApp-Quick\_Chat-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ITRecruitersachin">
+<img src="https://img.shields.io/badge/💻\_GitHub-Explore\_Projects-181717?style=for-the-badge\&logo=github\&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍\_Location-Bengaluru,\_India-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🌍\_Hiring-US\_Nationwide-059669?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⚡\_Specialization-US\_IT\_Recruitment-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/💼\_Hiring-W2\_|\_C2C\_|\_1099\_|\_FTE-F59E0B?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🛰️\_Availability-Open\_to\_Networking-06B6D4?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Let's Build High-Performing Engineering Teams
+
+```text
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+
+║                     READY TO CONNECT?                                       ║
+
+╠══════════════════════════════════════════════════════════════════════════════╣
+
+║ 💼 Hiring Manager        → Let's discuss your hiring roadmap               ║
+
+║ 👨‍💻 Technology Professional → Explore current opportunities               ║
+
+║ 🤝 Recruitment Partner    → Vendor \& recruiting collaboration              ║
+
+║ 🏛 Government Programs    → Federal \& State staffing support               ║
+
+║ 🚀 Startup Founder        → Scale your engineering organization            ║
+
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+```
+
+### ⭐ Recruit • Connect • Deliver • Repeat ⭐
+
+</div>
+
+---
