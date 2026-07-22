@@ -232,57 +232,6 @@ motto: >
 <img src="https://metrics.lecoq.io/ITRecruitersachin?template=terminal&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata" alt="Terminal Metrics"/>			
 			
 </div>			
-
----			
-			
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/ITRecruitersachin/ITRecruitersachin/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-</picture>
-
-</div>
-
-<details>			
-<summary>🛠️ Click to see Snake Setup Workflow</summary>			
-			
-```yaml			
-# .github/workflows/snake.yml			
-name: Generate Snake			
-			
-on:			
-  schedule:			
-    - cron: "0 */12 * * *"			
-  workflow_dispatch:			
-			
-jobs:			
-  generate:			
-    runs-on: ubuntu-latest			
-    steps:			
-      - uses: Platane/snk/svg-only@v3			
-        with:			
-          github_user_name: ${{ github.repository_owner }}			
-          outputs: |			
-            dist/github-contribution-grid-snake.svg			
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark			
-      - uses: crazy-max/ghaction-github-pages@v3			
-        with:			
-          target_branch: output			
-          build_dir: dist			
-        env:			
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}			
-```			
 			
 </details>			
 			
@@ -1864,4 +1813,26 @@ Infrastructure🌐████████████████████�
 
 </div>
 
----
+---			
+			
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/Z/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ITRecruitersachin/Z/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ITRecruitersachin/Z/output/github-contribution-grid-snake-dark.svg"
+    width="100%">
+</picture>
+
+</div>
+
