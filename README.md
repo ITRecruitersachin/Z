@@ -6,7 +6,27 @@
 			
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a2e,60:0d1b4b,100:001a6e&height=320&section=header&text=SACHIN&fontSize=100&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=00ffff&strokeWidth=2&desc=⚡%20Lead%20US%20IT%20Recruiter%20⚡%20%7C%2010%2B%20Years%20%7C%20Available%20NOW&descSize=20&descAlignY=65&descColor=7df9ff&rotate=0" width="100%"/>			
 			
-</div>			
+</div>		
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1400&height=80&lines=Sachin+R;US+Recruitment+Strategist;Technical+Talent+Acquisition;AI+%7C+Cloud+%7C+ERP+%7C+Cybersecurity+%7C+Data+Engineering;Boolean+Search+%7C+X-Ray+Search+%7C+Talent+Intelligence)](https://git.io/typing-svg)
+
+</div>
+<h3 align="center">
+<img src="./Stats.gif.gif" width="7%">
+<a href="https://github.com/ITRecruitersachin?tab=followers">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/ITRecruitersachin?style=social">
+<a href="https://github.com/ITRecruitersachin?tab=repositories">
+<img src="https://img.shields.io/github/stars/ITRecruitersachin?affiliations=OWNER&style=social">
+<img src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+         
+
+</a>
+</p>
+
+---	
 			
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -1813,7 +1833,101 @@ Infrastructure🌐████████████████████�
 
 </div>
 
----			
+---	
+
+---
+
+<!-- ===================================================== -->
+<!--            📊 LIVE GITHUB ANALYTICS                  -->
+<!-- ===================================================== -->
+
+<h1 align="center">📊 Live GitHub Analytics</h1>
+
+<p align="center">
+<i>Real-time GitHub statistics updated automatically.</i>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=ITRecruitersachin&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&theme=github-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+## 🌍 Large Contribution Heatmap
+
+<p align="center">
+
+<img
+src="https://ghchart.rshah.org/58A6FF/ITRecruitersachin"
+alt="Contribution Heatmap"/>
+
+</p>
+
+---
+
+## ⚡ GitHub Metrics
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITRecruitersachin&theme=github_dark"/>
+
+</p>
+
+---
+
+## 📊 Productivity Statistics
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITRecruitersachin&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITRecruitersachin&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITRecruitersachin&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITRecruitersachin&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=ITRecruitersachin&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---		
 			
 ## 🐍 Contribution Snake
 
@@ -1836,3 +1950,20 @@ Infrastructure🌐████████████████████�
 
 </div>
 
+</div>
+
+<div align="center">
+   <img width="100%" src="India n fantasy.png" />
+</div>
+
+---
+
+<img src="./colourfull line.gif " width="100%">
+
+---
+
+<p align="center">
+<img src="./Dyno.gif.gif" width="100%">
+<br>
+
+---
